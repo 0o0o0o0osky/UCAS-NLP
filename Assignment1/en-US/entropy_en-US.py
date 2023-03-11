@@ -25,7 +25,7 @@ for character in str:
             p = value / character_num
             entropy += math.log2(p) * p
         entropy = -entropy
-        print("Characters: %dM\nEntropy: %.5f"%(character_num // 1000000, entropy))
+        print("Letters: %dM\nEntropy: %.5f"%(character_num // 1000000, entropy))
         sorted_dict = sorted(char_dict.items(), key=lambda x:x[1], reverse=True)
         print("Top 10 letters:")
         for key,value in sorted_dict[0:10]:
@@ -37,6 +37,6 @@ for value in char_dict.values():
 entropy = -entropy
 print("Total letters:%d\nEntropy:%.5f"%(character_num, entropy))
 sorted_dict = sorted(char_dict.items(), key=lambda x:x[1], reverse=True)
-print("Top 10 characters:")
+print("Top 10 letters:")
 for key,value in sorted_dict[0:10]:
     print("\'%s\': %.2f%%"%(key, value * 100 / character_num))
