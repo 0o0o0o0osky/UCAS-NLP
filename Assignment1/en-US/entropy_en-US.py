@@ -28,7 +28,7 @@ for character in str:
         print("Characters: %dM\nEntropy: %.5f"%(character_num // 1000000, entropy))
         sorted_dict = sorted(char_dict.items(), key=lambda x:x[1], reverse=True)
         print("Top 10 letters:")
-        for key,value in sorted_dict[0:9]:
+        for key,value in sorted_dict[0:10]:
             print("\'%s\': %.2f%%"%(key, value * 100 / character_num))
 entropy = 0   
 for value in char_dict.values():
@@ -38,5 +38,5 @@ entropy = -entropy
 print("Total letters:%d\nEntropy:%.5f"%(character_num, entropy))
 sorted_dict = sorted(char_dict.items(), key=lambda x:x[1], reverse=True)
 print("Top 10 characters:")
-for key,value in sorted_dict[0:9]:
+for key,value in sorted_dict[0:10]:
     print("\'%s\': %.2f%%"%(key, value * 100 / character_num))
