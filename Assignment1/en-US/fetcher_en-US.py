@@ -10,7 +10,7 @@ headers = {
 
 articles_text=[]
 articles_num = 0
-'''
+
 # CNN
 source_url = 'https://edition.cnn.com'
 cnn_categories = ['health', 'world', 'business', 'markets', 'sport', 'weather', 'entertainment', 'politics', 'style', 'tech']
@@ -57,8 +57,8 @@ for category in cnn_categories:
         articles_text.clear()
     print("Now we continue.")
 print("OK")
-'''
-'''
+
+
 # CBS
 source_url = 'https://www.cbsnews.com'
 cbs_categories = ['us', 'world', 'cbsvillage', 'moneywatch', 'healthwatch', 'science', 'entertainment', 'politics', 'crime', 'technology']
@@ -92,8 +92,8 @@ for article_url in list(set(article_urls)):
 with open('./raw/cbs/raw.txt', 'a', encoding='utf-8') as f:
     f.write(str.join(articles_text))
 print("OK.")
-'''
-'''
+
+
 # ABC
 source_url = 'https://abcnews.go.com/'
 cnn_categories = ['US', 'Politics', 'International', 'Entertainment', 'Business', 'Technology', 'Lifestyle', 'Health', 'Sports']
@@ -134,8 +134,8 @@ for category in cnn_categories:
         articles_text.clear()
     print("Now we continue.")
 print("OK")
-'''
-'''
+
+
 # National Geographic
 source_url = 'https://www.nationalgeographic.com/'
 cnn_categories = ['animals', 'environment', 'history', 'science', 'travel']
@@ -176,8 +176,8 @@ for category in cnn_categories:
         articles_text.clear()
     print("Now we continue.")
 print("OK")
-'''
-'''
+
+
 # Fox News
 source_url = 'https://www.foxnews.com'
 cnn_categories = ['us', 'politics', 'world', 'opinion', 'media', 'entertainment', 'sports', 'lifestyle', 'science', 'health']
@@ -214,7 +214,7 @@ for category in cnn_categories:
         articles_text.clear()
     print("Now we continue.")
 print("OK")
-'''
+
 
 # AP News
 source_url = 'https://apnews.com/hub'
