@@ -1,4 +1,4 @@
-Characters: 1M
+Letters: 1M
 Entropy: 4.17746
 Top 10 letters:
 'e': 12.01%
@@ -11,7 +11,7 @@ Top 10 letters:
 'r': 6.50%
 'h': 4.55%
 'l': 4.17%
-Characters: 2M
+Letters: 2M
 Entropy: 4.17516
 Top 10 letters:
 'e': 11.98%
@@ -24,7 +24,7 @@ Top 10 letters:
 'r': 6.42%
 'h': 4.54%
 'l': 4.07%
-Characters: 3M
+Letters: 3M
 Entropy: 4.17784
 Top 10 letters:
 'e': 11.97%
@@ -37,7 +37,7 @@ Top 10 letters:
 'r': 6.47%
 'h': 4.59%
 'l': 4.08%
-Characters: 4M
+Letters: 4M
 Entropy: 4.17850
 Top 10 letters:
 'e': 11.99%
@@ -50,7 +50,7 @@ Top 10 letters:
 'r': 6.47%
 'h': 4.60%
 'l': 4.09%
-Characters: 5M
+Letters: 5M
 Entropy: 4.17841
 Top 10 letters:
 'e': 11.97%
@@ -76,7 +76,7 @@ Top 10 letters:
 'r': 6.46%
 'h': 4.58%
 'l': 4.06%
-Characters: 7M
+Letters: 7M
 Entropy: 4.17859
 Top 10 letters:
 'e': 11.97%
@@ -89,7 +89,7 @@ Top 10 letters:
 'r': 6.45%
 'h': 4.57%
 'l': 4.08%
-Characters: 8M
+Letters: 8M
 Entropy: 4.17877
 Top 10 letters:
 'e': 11.98%
@@ -102,7 +102,7 @@ Top 10 letters:
 'r': 6.44%
 'h': 4.59%
 'l': 4.08%
-Characters: 9M
+Letters: 9M
 Entropy: 4.17916
 Top 10 letters:
 'e': 12.00%
