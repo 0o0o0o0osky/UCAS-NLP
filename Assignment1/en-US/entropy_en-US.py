@@ -19,7 +19,7 @@ for character in str:
         key_num += 1
     else:
         char_dict[character] += 1
-    if character_num % 2000000 == 0:
+    if character_num % 1000000 == 0:
         entropy = 0
         for value in char_dict.values():
             p = value / character_num
