@@ -1,4 +1,4 @@
-characters: 2M
+Characters: 2M
 Entropy: 9.57104
 Top 10 characters:
 '的': 3.01%
@@ -10,7 +10,8 @@ Top 10 characters:
 '和': 0.66%
 '有': 0.63%
 '不': 0.63%
-characters: 4M
+'大': 0.63%
+Characters: 4M
 Entropy: 9.62126
 Top 10 characters:
 '的': 2.79%
@@ -22,7 +23,8 @@ Top 10 characters:
 '大': 0.69%
 '和': 0.66%
 '年': 0.62%
-characters: 6M
+'是': 0.61%
+Characters: 6M
 Entropy: 9.60712
 Top 10 characters:
 '的': 2.69%
@@ -34,7 +36,8 @@ Top 10 characters:
 '大': 0.70%
 '和': 0.70%
 '年': 0.61%
-characters: 8M
+'发': 0.61%
+Characters: 8M
 Entropy: 9.60806
 Top 10 characters:
 '的': 2.70%
@@ -46,7 +49,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.69%
 '发': 0.61%
-characters: 10M
+'年': 0.61%
+Characters: 10M
 Entropy: 9.60595
 Top 10 characters:
 '的': 2.71%
@@ -58,7 +62,8 @@ Top 10 characters:
 '和': 0.71%
 '大': 0.68%
 '发': 0.62%
-characters: 12M
+'是': 0.61%
+Characters: 12M
 Entropy: 9.67564
 Top 10 characters:
 '的': 2.69%
@@ -70,7 +75,8 @@ Top 10 characters:
 '和': 0.68%
 '年': 0.66%
 '了': 0.66%
-characters: 14M
+'大': 0.65%
+Characters: 14M
 Entropy: 9.67905
 Top 10 characters:
 '的': 2.70%
@@ -82,7 +88,8 @@ Top 10 characters:
 '和': 0.68%
 '了': 0.66%
 '年': 0.66%
-characters: 16M
+'大': 0.65%
+Characters: 16M
 Entropy: 9.67326
 Top 10 characters:
 '的': 2.70%
@@ -94,7 +101,8 @@ Top 10 characters:
 '和': 0.69%
 '大': 0.66%
 '了': 0.65%
-characters: 18M
+'年': 0.65%
+Characters: 18M
 Entropy: 9.67317
 Top 10 characters:
 '的': 2.64%
@@ -106,7 +114,8 @@ Top 10 characters:
 '年': 0.69%
 '和': 0.68%
 '大': 0.66%
-characters: 20M
+'了': 0.64%
+Characters: 20M
 Entropy: 9.65986
 Top 10 characters:
 '的': 2.58%
@@ -118,7 +127,8 @@ Top 10 characters:
 '年': 0.70%
 '和': 0.69%
 '大': 0.66%
-characters: 22M
+'了': 0.62%
+Characters: 22M
 Entropy: 9.65561
 Top 10 characters:
 '的': 2.59%
@@ -130,7 +140,8 @@ Top 10 characters:
 '和': 0.69%
 '年': 0.69%
 '大': 0.67%
-characters: 24M
+'了': 0.62%
+Characters: 24M
 Entropy: 9.64794
 Top 10 characters:
 '的': 2.59%
@@ -142,7 +153,8 @@ Top 10 characters:
 '和': 0.71%
 '年': 0.67%
 '大': 0.67%
-characters: 26M
+'了': 0.61%
+Characters: 26M
 Entropy: 9.64488
 Top 10 characters:
 '的': 2.60%
@@ -154,7 +166,8 @@ Top 10 characters:
 '和': 0.71%
 '年': 0.67%
 '大': 0.67%
-characters: 28M
+'了': 0.61%
+Characters: 28M
 Entropy: 9.65293
 Top 10 characters:
 '的': 2.59%
@@ -166,7 +179,8 @@ Top 10 characters:
 '和': 0.71%
 '大': 0.66%
 '年': 0.65%
-characters: 30M
+'了': 0.61%
+Characters: 30M
 Entropy: 9.65658
 Top 10 characters:
 '的': 2.59%
@@ -178,7 +192,8 @@ Top 10 characters:
 '和': 0.71%
 '大': 0.65%
 '年': 0.63%
-characters: 32M
+'了': 0.61%
+Characters: 32M
 Entropy: 9.65882
 Top 10 characters:
 '的': 2.56%
@@ -190,7 +205,8 @@ Top 10 characters:
 '和': 0.71%
 '大': 0.65%
 '年': 0.61%
-characters: 34M
+'了': 0.61%
+Characters: 34M
 Entropy: 9.65392
 Top 10 characters:
 '的': 2.57%
@@ -202,7 +218,8 @@ Top 10 characters:
 '和': 0.71%
 '大': 0.65%
 '年': 0.60%
-characters: 36M
+'了': 0.60%
+Characters: 36M
 Entropy: 9.65031
 Top 10 characters:
 '的': 2.60%
@@ -214,7 +231,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.64%
 '了': 0.58%
-characters: 38M
+'年': 0.58%
+Characters: 38M
 Entropy: 9.65263
 Top 10 characters:
 '的': 2.60%
@@ -226,7 +244,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.63%
 '了': 0.59%
-characters: 40M
+'有': 0.58%
+Characters: 40M
 Entropy: 9.65338
 Top 10 characters:
 '的': 2.60%
@@ -238,7 +257,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.64%
 '了': 0.59%
-characters: 42M
+'有': 0.58%
+Characters: 42M
 Entropy: 9.65199
 Top 10 characters:
 '的': 2.59%
@@ -250,7 +270,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.64%
 '了': 0.59%
-characters: 44M
+'发': 0.58%
+Characters: 44M
 Entropy: 9.65446
 Top 10 characters:
 '的': 2.58%
@@ -262,7 +283,8 @@ Top 10 characters:
 '和': 0.70%
 '大': 0.64%
 '了': 0.59%
-characters: 46M
+'发': 0.59%
+Characters: 46M
 Entropy: 9.65908
 Top 10 characters:
 '的': 2.54%
@@ -274,7 +296,8 @@ Top 10 characters:
 '在': 0.70%
 '大': 0.64%
 '发': 0.59%
-characters: 48M
+'了': 0.58%
+Characters: 48M
 Entropy: 9.65634
 Top 10 characters:
 '的': 2.53%
@@ -286,7 +309,8 @@ Top 10 characters:
 '在': 0.69%
 '大': 0.64%
 '发': 0.60%
-characters: 50M
+'了': 0.58%
+Characters: 50M
 Entropy: 9.65568
 Top 10 characters:
 '的': 2.52%
@@ -298,7 +322,8 @@ Top 10 characters:
 '在': 0.69%
 '大': 0.64%
 '发': 0.60%
-characters: 52M
+'了': 0.58%
+Characters: 52M
 Entropy: 9.66426
 Top 10 characters:
 '的': 2.48%
@@ -310,7 +335,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.63%
 '发': 0.61%
-characters: 54M
+'有': 0.57%
+Characters: 54M
 Entropy: 9.65663
 Top 10 characters:
 '的': 2.45%
@@ -322,7 +348,8 @@ Top 10 characters:
 '在': 0.67%
 '大': 0.64%
 '发': 0.62%
-characters: 56M
+'有': 0.57%
+Characters: 56M
 Entropy: 9.65616
 Top 10 characters:
 '的': 2.45%
@@ -334,7 +361,8 @@ Top 10 characters:
 '在': 0.67%
 '大': 0.64%
 '发': 0.62%
-characters: 58M
+'有': 0.57%
+Characters: 58M
 Entropy: 9.65464
 Top 10 characters:
 '的': 2.45%
@@ -346,7 +374,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.64%
 '发': 0.62%
-characters: 60M
+'年': 0.57%
+Characters: 60M
 Entropy: 9.65240
 Top 10 characters:
 '的': 2.45%
@@ -358,7 +387,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.65%
 '发': 0.62%
-characters: 62M
+'年': 0.57%
+Characters: 62M
 Entropy: 9.65006
 Top 10 characters:
 '的': 2.46%
@@ -370,7 +400,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.65%
 '发': 0.62%
-characters: 64M
+'年': 0.58%
+Characters: 64M
 Entropy: 9.64799
 Top 10 characters:
 '的': 2.46%
@@ -382,7 +413,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.65%
 '发': 0.63%
-characters: 66M
+'年': 0.58%
+Characters: 66M
 Entropy: 9.64442
 Top 10 characters:
 '的': 2.46%
@@ -394,7 +426,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.65%
 '发': 0.63%
-characters: 68M
+'年': 0.58%
+Characters: 68M
 Entropy: 9.64142
 Top 10 characters:
 '的': 2.45%
@@ -406,7 +439,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.66%
 '发': 0.64%
-characters: 70M
+'年': 0.58%
+Characters: 70M
 Entropy: 9.63805
 Top 10 characters:
 '的': 2.45%
@@ -418,7 +452,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.66%
 '发': 0.64%
-characters: 72M
+'年': 0.57%
+Characters: 72M
 Entropy: 9.63399
 Top 10 characters:
 '的': 2.45%
@@ -430,7 +465,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.66%
 '发': 0.64%
-characters: 74M
+'年': 0.57%
+Characters: 74M
 Entropy: 9.63420
 Top 10 characters:
 '的': 2.46%
@@ -442,7 +478,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.66%
 '发': 0.64%
-characters: 76M
+'年': 0.58%
+Characters: 76M
 Entropy: 9.63234
 Top 10 characters:
 '的': 2.46%
@@ -454,7 +491,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.64%
-characters: 78M
+'年': 0.58%
+Characters: 78M
 Entropy: 9.63230
 Top 10 characters:
 '的': 2.46%
@@ -466,7 +504,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.65%
-characters: 80M
+'年': 0.58%
+Characters: 80M
 Entropy: 9.63214
 Top 10 characters:
 '的': 2.46%
@@ -478,7 +517,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.65%
-characters: 82M
+'年': 0.58%
+Characters: 82M
 Entropy: 9.63225
 Top 10 characters:
 '的': 2.46%
@@ -490,7 +530,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.65%
-characters: 84M
+'年': 0.58%
+Characters: 84M
 Entropy: 9.63178
 Top 10 characters:
 '的': 2.45%
@@ -502,7 +543,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.65%
-characters: 86M
+'年': 0.58%
+Characters: 86M
 Entropy: 9.63118
 Top 10 characters:
 '的': 2.45%
@@ -514,7 +556,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.65%
-characters: 88M
+'年': 0.58%
+Characters: 88M
 Entropy: 9.63131
 Top 10 characters:
 '的': 2.45%
@@ -526,7 +569,8 @@ Top 10 characters:
 '在': 0.68%
 '大': 0.67%
 '发': 0.66%
-characters: 90M
+'年': 0.58%
+Characters: 90M
 Entropy: 9.62764
 Top 10 characters:
 '的': 2.45%
@@ -538,7 +582,8 @@ Top 10 characters:
 '大': 0.68%
 '在': 0.68%
 '发': 0.66%
-characters: 92M
+'年': 0.58%
+Characters: 92M
 Entropy: 9.62419
 Top 10 characters:
 '的': 2.45%
@@ -550,7 +595,8 @@ Top 10 characters:
 '大': 0.68%
 '在': 0.67%
 '发': 0.66%
-characters: 94M
+'年': 0.58%
+Characters: 94M
 Entropy: 9.62216
 Top 10 characters:
 '的': 2.45%
@@ -562,7 +608,8 @@ Top 10 characters:
 '大': 0.68%
 '在': 0.67%
 '发': 0.67%
-Total characters:94435458
+'年': 0.58%
+Total Characters:94435458
 Entropy:9.62190
 Top 10 characters:
 '的': 2.45%
@@ -574,3 +621,4 @@ Top 10 characters:
 '大': 0.68%
 '在': 0.67%
 '发': 0.67%
+'年': 0.58%
