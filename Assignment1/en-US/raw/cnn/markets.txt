@@ -1,0 +1,387 @@
+New York CNN —
+
+Silicon Valley Bank collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a financial institution in US history.
+
+California regulators closed down the tech lender and put it under the control of the US Federal Deposit Insurance Corporation. The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+The FDIC, an independent government agency that insures bank deposits and oversees financial institutions, said all insured depositors will have full access to their insured deposits by no later than Monday morning. It said it would pay uninsured depositors an “advance dividend within the next week.”
+
+The bank, previously owned by SVB Financial Group, didn’t respond to CNN’s request for comment.
+
+What happened?
+
+The wheels started to come off on Wednesday, when SBV announced it had sold a bunch of securities at a loss and that it would sell $2.25 billion in new shares to shore up its balance sheet. That triggered a panic among key venture capital firms, who reportedly advised companies to withdraw their money from the bank.
+
+The company’s stock cratered on Thursday, dragging other banks down with it. By Friday morning, SBV’s shares were halted and it had abandoned efforts to quickly raise capital or find a buyer. Several other bank stocks were temporarily halted Friday, including First Republic, PacWest Bancorp, and Signature Bank.
+
+The mid-morning timing of the FDIC’s takeover was noteworthy, as the agency typically waits until the market has closed to intervene.
+
+“SVB’s condition deteriorated so quickly that it couldn’t last just five more hours,” wrote Better Markets CEO Dennis M. Kelleher. “That’s because its depositors were withdrawing their money so fast that the bank was insolvent, and an intraday closure was unavoidable due to a classic bank run.”
+
+Silicon Valley Bank’s decline stems partly from the Federal Reserve’s aggressive interest rate hikes over the past year.
+
+When interest rates were near zero, banks loaded up on long-dated, seemingly low-risk Treasuries. But as the Fed raises interest rates to fight inflation, the value of those assets has fallen, leaving banks sitting on unrealized losses.
+
+Higher rates hit tech especially hard, undercutting the value of tech stocks and making it tough to raise funds, Moody’s chief economist Mark Zandi said. That prompted many tech firms to draw down the deposits they held at SVB to fund their operations.
+
+“Higher rates have also lowered the value of their treasury and other securities which SVB needed to pay depositors,” Zandi said. ” All of this set off the run on their deposits that forced the FDIC to takeover SVB.”
+
+Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+Adeyemo said US officials are “learning more information” about the collapse of Silicon Valley Bank. He argued the Dodd-Frank financial reform overhaul, signed into law in 2010, has given regulators the tools they need to address this and improved the capitalization of banks.
+
+Adeyemo declined to predict what, if any, impact there will be to the broader economy or the tech industry.
+
+Echoes of 2008
+
+Despite initial panic on Wall Street over the run on SVB, which caused its shares to crater, analysts said the bank’s collapse is unlikely to set off the kind of domino effect that gripped the banking industry during the financial crisis.
+
+“The system is as well-capitalized and liquid as it has ever been,” Zandi said. “The banks that are now in trouble are much too small to be a meaningful threat to the broader system.”
+
+But smaller banks that are disproportionately tied to cash-strapped industries like tech and crypto may be in for a rough ride, according to Ed Moya, senior market analyst at Oanda.
+
+“Everyone on Wall Street knew that the Fed’s rate-hiking campaign would eventually break something, and right now that is taking down small banks,” Moya said.
+
+‘Idiosyncratic situation’
+
+While relatively unknown outside of Silicon Valley, SVB was among the top 20 American commercial banks, with $209 billion in total assets at the end of last year, according to the FDIC.
+
+It’s the largest lender to fail since Washington Mutual collapsed in 2008.
+
+The bank partnered with nearly half of all venture-backed tech and health care companies in the United States, many of which pulled deposits out of the bank.
+
+Mike Mayo, Wells Fargo senior bank analyst, said the crisis at SVB may be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterly on Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Rate hikes take a bite
+
+SVB’s sudden fall mirrored other risky bets that have been exposed in the past year’s market turmoil.
+
+Crypto-focused lender Silvergate said Wednesday it is winding down operations and will liquidate the bank after being financially pummeled by turmoil in digital assets. Signature Bank, another lender, was hit hard by the bank selloff, with shares sinking 30% before being halted for volatility Friday.
+
+“SVB’s institutional challenges reflect a larger and more widespread systemic issue: The banking industry is sitting on a ton of low-yielding assets that, thanks to the last year of rate increases, are now far underwater — and sinking,” wrote Konrad Alt, co-founder of Klaros Group.
+
+Alt estimated that rate increases have “effectively wiped out approximately 28% of all the capital in the banking industry as of the end of 2022.”London CNN —
+
+The failure of Silicon Valley Bank is rattling markets and raising uncomfortable questions: Will it undermine the broader banking system and start a new meltdown?
+
+Billionaire hedge fund manager Bill Ackman has compared SVB to Bear Stearns, the first lender to collapse at the start of the 2007-2008 global financial crisis.
+
+“The risk of failure and deposit losses here is that the next, least well-capitalized bank faces a run and fails, and the dominoes continue to fall,” Ackman wrote on Twitter.
+
+Yet most analysts say the implosion of SVB appears company-specific for now. A crucial lender to US technology startups, the bank came under pressure as Silicon Valley funding dried up, the result of an economic slowdown and rapidly rising interest rates.
+
+“The reason [SVB is] in trouble is because they have exposure to particular industries,” said Jonas Goltermann, deputy chief markets economist at Capital Economics. Most other banks, he added, are more “diversified.”
+
+And Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+There’s also less anxiety about the stability of the banking sector due to the significant regulatory reforms put in place after the crisis in 2008.
+
+Still, SVB’s collapse reveals stresses created by the fastest jump in borrowing costs in decades. Central banks have raised interest rates to tame high inflation, but the pace of the increases has thrown up unexpected problems. And worries persist about further unintended consequences.
+
+For example, banks that scooped up US Treasuries and other bonds when interest rates were very low are now sitting on losses as borrowing costs have risen and bond prices have gone down.
+
+Bank stocks rattled
+
+Founded in 1983, SVB provided financing for almost half of US venture-backed technology and health care companies. Its problems came to light this week when it revealed that it was in dire need of funds. The company shared plans Wednesday to raise more than $2 billion from investors to fill a hole in its finances created by the sale of part of its hard-hit bond portfolio.
+
+SVB put the bonds up for sale as customers, facing leaner times, pulled their money from the bank. Shares of SVB plunged 60% on Thursday. Trading in the stock was halted Friday amid reports that the bank, unable to raise all the money it needed, was hunting for a buyer.
+
+Then California’s regulators intervened, shutting the bank down and calling in the US Federal Deposit Insurance Corporation to act as receiver. Silicon Valley Bank had about $209 billion in total assets and $175 billion in total deposits as of the end of last year, according to the FDIC.
+
+In a sign concerns are spilling into other parts of the banking sector, shares of other lenders have been falling, too. JPMorgan Chase (JPM), Bank of America (BAC), Wells Fargo (WFC) and Citigroup (C) all suffered drops of between 4% and 7% Thursday.
+
+While their shares stabilized on Friday, smaller banks continued to suffer. An exchange-traded fund tracking regional banks, the SPDR S&P Regional Banking ETF, was down more than 6%. Banks in Europe were also hit.
+
+What happens next?
+
+Other lenders with highly specialized clientele could come under pressure. Crypto-focused lender Silvergate said Wednesday that it was winding down operations after recent turmoil in digital assets pummeled its finances.
+
+But the risks of broader contagion are thought to be limited for now.
+
+“Overall, the banking system is in good shape and able to withstand significant shocks,” said Jens Hagendorff, a finance professor at King’s College London. “I think SVB is special in the sense that they have a fickle depositor base.”
+
+Mike Mayo, senior bank analyst at Wells Fargo, said the crisis at SVB might be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterley Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Similarly, former US Treasury Secretary Larry Summers told Bloomberg News Friday that he saw “no systemic risk” if the situation “is handled reasonably,” adding he had “every reason to think that it will be.”
+
+Yet the tumult reveals the bind banks could find themselves in as economic and market conditions change rapidly.
+
+SVB’s downfall was tied, in part, to the plunge in the value of bonds it bought up during boom times, when it had a lot of customer deposits coming in and needed somewhere to park the cash.
+
+The rise in interest rates has made low-yielding assets like bonds worth a lot less. That caused problems when the bank needed to raise funds quickly.
+
+“[Falling bond prices are] only really a problem in a situation where your balance sheet is sinking quite quickly… [and you] have to sell assets that you wouldn’t ordinarily have to sell,” said Luc Plouvier, senior portfolio manager at Van Lanschot Kempen, a Dutch wealth management firm.
+
+SVB may not be the only institution that needs to tackle this issue.
+
+“Many institutions — from central banks, commercial banks and pension funds — sit on assets that are worth significantly less than reported in their financial statements,” Hagendorff said. “The resulting losses will be large and need to be financed somehow. The scale of the problem is starting to cause concern.”
+
+— Allison Morrow, Nicole Goodkind and Matt Egan contributed reporting.Minneapolis CNN —
+
+The US economy added 311,000 jobs in February, according to the latest monthly employment snapshot from the Bureau of Labor Statistics released Friday.
+
+That’s a pullback from the blockbuster January jobs report, when a revised 504,000 positions were added, but shows the labor market is still emitting plenty of heat.
+
+The unemployment rate ticked up to 3.6% from 3.4%.
+
+February’s net job gains surpassed economists’ estimates for a more modest month, with only 205,000 to be added. Separately, downward revisions to December’s and January’s totals weren’t that drastic.
+
+While Friday’s report is a strong one, that’s actually bad news in the broader context of the Federal Reserve’s campaign to curb high inflation, said PNC Financial Services chief economist Gus Faucher.
+
+“It’s much hotter than the economy can run, and so this means the Fed is going to have to continue to hike interest rates,” he told CNN. “And that makes a recession more likely.”
+
+Barring a surprisingly low Consumer Price Index inflation report next week, Faucher said he expects the Fed to go forward with a half-point rate hike at its March 21-22 meeting, which would be a higher pace than the recent, more moderate quarter-point increase.
+
+The Fed has been battling for almost a year to slow the economy and crush the highest inflation in 40 years, but the labor market continues to defy those efforts.
+
+“Coming up on the one-year anniversary of the Fed’s first rate hike, we never thought we would see the economy churning out 311,000 more jobs this month,” said Chris Rupkey, chief economist of FwdBonds, in a statement. “The party is on and the labor market is having a blast. The economy clearly is not landing, it is soaring.”
+
+The monthly job gains remain well above pre-pandemic norms, when roughly 180,000 jobs were added per month between 2010 and 2019, BLS data shows. However, the labor market remains tight and imbalances continue to persist in the ongoing recovery efforts from the devastating pandemic.
+
+Labor turnover data released earlier this week for January showed that there were 1.9 job openings for every person looking for one. Fed Chair Jerome Powell has frequently highlighted how the labor market remains short of pre-pandemic growth projections by more than 3 million people.
+
+The pandemic accelerated expected demographic trends (the aging out of the massive Baby Boom generation) with increased retirements; people also dropped out of the workforce for care-related needs and health concerns such as long Covid; and there were hundreds of thousands of workers who died from Covid.
+
+February’s employment report showed a 0.1 percentage point increase in the labor force participation rate to 62.5% — the highest it’s been since April 2020. However, it remains below pre-pandemic levels of 63.4%.
+
+Additionally, there was some upward movement in the jobless rate, which increased 0.2 percentage points to 3.6%.
+
+“Contributing to upward pressure here, there were more people looking for work,” said Mark Hamrick, senior economic analyst at Bankrate.
+
+Industries with notable job gains included leisure and hospitality, retail trade, government and health care. After being crushed during the pandemic, the leisure and hospitality has been steadily adding back employees and trying to meet increased demand from consumers shifting their spending from goods to services.
+
+Average hourly earnings — a closely watched metric as the Fed seeks to evaluate the impact of rising wages on inflation — grew 0.2% month-on-month and were up 4.6% over the year before.London/Hong Kong CNN —
+
+Markets in Europe and Asia tumbled Friday following a sharp selloff in banking stocks in the United States as a major tech lender said it had to sell shares to plug a hole in its finances.
+
+SVB Financial Group (SIVB), which is partnered with nearly half of all venture-backed tech and health care companies in the United States, was forced to raise capital after it sold part of its portfolio of US Treasuries at a loss to cover a rapid decline in customer deposits.
+
+The Nasdaq exchange suspended trading in SVB shares at 8.35 a.m. ET Friday after they fell 49% in premarket trading. Stocks in the company cratered 60% on Thursday.
+
+“Lots of banks hold large portfolios of bonds and rising interest rates make these less valuable — the SVB situation is a reminder that many institutions are sitting on large unrealized losses on their fixed-income holdings,” commented Russ Mould, investment director at UK broker AJ Bell.
+
+Europe’s benchmark Stoxx Europe 600 index fell 0.9% in early trading, while London’s bank-heavy FTSE 100 (UKX) index slid 1.4%.
+
+The Stoxx Europe 600 Banks index, which tracks 42 big European banks, including those in the United Kingdom, sank by more than 4% Friday morning before recovering slightly.
+
+Shares in banking giant HSBC (HSBC) tumbled 4.5% Friday. The shares of Barclays (BCS) were down 3.6%, Deutsche Bank (DB) 6.8% and Italy’s Unicredit (UNCFF)4%.
+
+In Asia, Hong Kong’s Hang Seng (HSNGY)led losses in the region, sinking 3%, while China’s Shanghai and Korea’s Kospi fell 1.4% and 1% respectively.
+
+Asian markets have also been pressured this week because China has failed to announce any major economic stimulus during its National People’s Congress.
+
+Meanwhile, Japan’s Nikkei ended Friday down 1.7% as the country’s central bank decided to keep its ultra-low interest rates unchanged.
+
+US stocks dipped in pre-market trading, before recovering to post modest gains by 9.07 a.m. ET.
+
+Fall from grace
+
+The losses come after US bank stocks logged the largest falls in nearly three years on Thursday. The KBW Bank Index, which tracks 24 leading US banks, fell 7.7%, its biggest drop in almost three years.
+
+The Dow closed lower by 543 points, or 1.7%, Thursday. The S&P 500 fell by 1.9% and the Nasdaq Composite was down 2.1%.
+
+The selloff is a sharp turnaround for the global banking sector, which, until Thursday, had enjoyed surging stock valuations since last fall.
+
+On one hand, high interest rates have been a boon for banks, helping them make heftier returns on loans to households and businesses, and as savers deposit more of their money into savings accounts.
+
+But, on the other, some large banks that had scooped up expensive Treasuries and other bonds when interest rates were very low, are sitting on losses as borrowing costs have risen and bond prices have gone down.
+
+Banks heavily exposed to the tech sector, like SVB, are particularly at risk as cash-hungry startups withdraw their deposits.A version of this story first appeared in CNN Business’ Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the same link.
+
+New York CNN —
+
+The US labor market is remarkably strong — unemployment is sitting at five-decade lows even as the Federal Reserve does all it can to cool the economy in its fight against inflation. Wage growth is also increasing as demand for labor outpaces supply.
+
+But not all workers have benefited equally from wage gains.
+
+A new Wells Fargo report shows that the number of single women in the labor force has grown three times faster than the broader labor pool over the last decade. At the same time, their salaries have failed to keep up with those of their male counterparts.
+
+Those gaps have a profound effect not only on the well being of workers but also on the overall economy and stock market.
+
+What’s happening: Never-married women earned just 92% of what never-married men did last year, according to the Wells Fargo report. Women also reported having 29% less wealth, overall.
+
+It’s not just single women. The overall wage gap between men and women has stagnated over the last 20 years.
+
+In 2022, US women on average earned about 82 cents for every dollar a man earned, according to a new Pew Research Center analysis of median hourly earnings of both full- and part-time workers.
+
+That represents an improvement of just 3 cents since 2002.
+
+Those wage gaps are “persistently disappointing,” ADP’s Chief Economist Nela Richardson told CNN on Thursday. She said the gaps are seen across all age groups, job levels and industries.
+
+They’re also bad for the economy as a whole. On average, women employed in the United States lose a combined $1.6 trillion every year due to the wage gap, according to the National Partnership for Women and Families. That loss of wages means women have less money to support themselves and retire on, as well as to spend in their communities.
+
+Markets suffer: Companies with smaller gender pay gaps tend to be rewarded by their shareholders.
+
+That may be because of the popularity of ESG investing — when traders evaluate companies using environmental, social and governance factors. “The gender pay gap is informing investment strategies,” wrote Refinitiv analysts in a recent report. “Our recent analysis shows that [shares of] companies with no gender pay gap outperform companies with pay gaps between male and female employees,” wrote Refinitiv.
+
+Companies with more women in high-paying, executive positions also tend to be more profitable.
+
+The SHE fund, which was designed to measure the performance of US large cap stocks that are gender diverse, has returned 3.1% so far this year — a full percentage point higher than the S&P 500.
+
+A McKinsey study of 366 companies across the United States and United Kingdom found that companies in the top 25% for gender diversity among their executives were also 25% more likely than their counterparts to achieve above-average profitability.
+
+Jobs, bank stocks and Biden: What Wall Street is watching
+
+▸ Welcome to jobs day.
+
+Investors have been eagerly anticipating the release of February employment numbers by the Bureau of Labor Statistics for weeks. That’s because January’s report left them stunned when the US economy blew past all expectations and added 517,000 jobs in the first month of the year, bringing unemployment to a 54-year low.
+
+This time around, analysts are expecting a tamer but still strong 205,000 jobs were added last month, according to Refinitiv data.
+
+The persistently tight labor market has spurred concern among Fed officials that there’s an imbalance in wage negotiating that could put upward pressure on inflation. Federal Reserve officials, and Wall Street, will keep a close watch on Friday’s report as policymakers try to cool the economy to rein in high prices.
+
+▸ Bank stocks plunged on Thursday after SVB Financial Group, a bank that lends primarily to tech companies, told investors it had to sell $1.75 billion in shares at a loss to cover rapidly declining customer deposits.
+
+That triggered concern that the Federal Reserve’s interest rate hikes are preventing banks from raising capital. Large US banks inked their worst day in nearly three years as fear overtook Wall Street.
+
+Silicon Valley-based SVB notched the largest decline in the sector, down by more than 60%, as CEO Greg Becker said the bank could be dealing with problems for some time to come.
+
+Shares of JPMorgan Chase (JPM) dropped by 5.4%, Bank of America (BAC) fell 6.2%, Wells Fargo (WFC) was down 6.2% and Citigroup (C) was 4.1% lower.
+
+▸ President Joe Biden released his budget on Thursday which included new proposed taxes on the wealthy and corporations.
+
+The Biden administration proposed a 25% minimum tax on the richest Americans, new taxes on oil and gas companies and a hike in the US corporate tax rate to 28% from 21%.
+
+Biden would cut the deficit “by asking the wealthy and big corporations to begin to pay their fair share and by cutting wasteful spending on Big Pharma, Big Oil and other special interests,” said White House Office of Management and Budget director Shalanda Young.
+
+Biden’s budget proposal is just that — a proposal. But it does give Wall Street a peek into the president’s priorities for the next year.
+
+American whiskey travels the globe
+
+American spirits exports exploded to a new record in 2022: About $2 billion worth of US-made alcohol was shipped abroad last year, up about 30% from 2021.
+
+So have our friends abroad gained a new appreciation for Kentucky bourbon? Maybe, but the boom is more likely due to the temporary halt of European and UK tariffs on American alcohol, according to a new report by the Distilled Spirits Council of the United States.
+
+That makes it cheaper for Brits and other Europeans to purchase hard drinks that come from the states.
+
+When it comes to hard alcohol, Europe is America’s largest export market. About 34% of US spirits were exported to the European Union last year, totaling $703 million in value. That’s a 25% increase compared to 2021.
+
+Dig deeper: Brown-Forman (BFA), the company behind Jack Daniel’s, Woodford Reserve and Old Forester Bourbons, among other spirits, missed Wall Street earnings expectations when it reported its corporate results on Wednesday.
+
+The company’s stock is down more than 5% so far this year.London CNN —
+
+London is used to punching well above its weight in global financial markets.
+
+For years, the London Stock Exchange attracted an outsized share of investor capital relative to the size of the UK economy, reflecting the international nature of its listed companies.
+
+In 2000, UK-listed equities made up 11% of the MSCI World Index — which tracks more than 1,500 companies that account for the vast majority of the global stock market by value — according to Citigroup. Fast-forward 23 years and the UK market now represents just 4%, the bank’s chief global equity strategist wrote in the Financial Times.
+
+Investors have been drawn to faster-growing markets in other parts of the world, such as China and India, and to big tech IPOs on Wall Street. Meanwhile, UK pensions funds have slashed their exposure to local stocks in the search of more certain returns on government bonds.
+
+Then came Brexit and years of political turmoil that undermined London’s status as the king of European finance, and battered Britain’s standing in the eyes of investors.
+
+The combined effect has weighed heavily on the FTSE 100 (UKX), which, despite a recent hot streak, has trailed the gains in benchmark exchanges in the European Union and the United States since the global financial crisis.
+
+Fears for London’s future resurfaced over the past week after chipmaker ARM, the crown jewel of the UK tech sector, said it would hold its IPO on Wall Street, and CRH (CRH), the world’s largest building materials supplier, said it would moving its primary listing to the United States. Shell, London’s largest listed company, has also reportedly considered relocating. The health of London’s markets is vital to the UK economy, hence the growing sense of alarm.
+
+Taken together, the company moves feel like “a vote of no confidence in the investment environment here in the UK,” said Michael Hewson, chief market analyst at stockbroker CMC Markets UK.
+
+London is still a major international financial center. Some $3.8 trillion of daily foreign exchange trades are transacted there — more than in New York, Singapore, Hong Kong and Tokyo combined. And 70% of global secondary bond market trading happens in the city, according to the London Stock Exchange.
+
+Outside of the United States and China, London also raised the most money, through IPOs and follow-on deals, in 2021. And Britain remained the world’s leading exporter of financial services that year.
+
+Still, there is plenty of evidence that London can’t be complacent about its future. France is now home to Europe’s largest stock market by value — its CAC All-Share Index is worth €3.1 trillion ($3.3 trillion), compared with London’s FTSE All-Share index at £2.4 trillion ($2.9 trillion).
+
+ARM’s headquarters and operations will remain in Britain and the company, owned by Japan’s Softbank, said it intended to consider a subsequent UK listing “in due course.”
+
+But its decision to list in New York is clearly part of a trend. Ferguson (FERGY), a UK-based plumbing equipment supplier, moved its primary listing from London to New York last year. Software group WANdisco and online sports betting company Flutter (PDYPF), which owns FanDuel, are also exploring US listings, in addition to their UK listings. Flutter (PDYPF) said it believed a US listing would provide “access to much deeper capital markets, and to new US domestic investors.”
+
+The value gap between the two markets is stark. The MSCI United Kingdom Index, which tracks 80 of the biggest UK-listed companies, now trades at a nearly 40% discount to the 625-strong US MSCI Index, according to researchers at Citi.
+
+The steady erosion of London’s position as a financial center has prompted the UK government and regulators to embark on a program of reforms designed to reboot UK finance.
+
+Dubbed the “Edinburgh Reforms,” they amount to the most significant overhaul of Britain’s financial services policy in two decades and span banking, asset management, insurance and capital markets.
+
+The ARM decision “demonstrates the need for the UK to make rapid progress in its regulatory and market reform agenda,” London Stock Exchange CEO Julia Hoggett said in a statement.
+
+“We are working with regulators, government and wider market participants to ensure UK capital markets provide the best possible funding environment for UK and global companies.”
+
+Fighting for its future
+
+London’s markets matter a great deal to the wider UK economy.
+
+They are integral to Britain’s sprawling financial services sector, which contributes more than 8% to UK GDP and is the source of roughly 10% of tax revenue, according to PwC.
+
+More than 1 million people work in the industry, with another 1.2 million people employed in related professional services, such as law, auditing and public relations.
+
+Beyond the jobs they create and the tax they generate, financial markets also channel capital into companies to fund future growth.
+
+The loss of ARM — which was a constituent of the FTSE 100 before it was bought by Softbank in 2016 — suggests that without a more vibrant stock market, Britain risks losing the best of its homegrown companies to the United States. The bigger worry is that where listings go, jobs and investment inevitably follow.
+
+In other words, to safeguard its future, London needs to reinvigorate its stock markets.
+
+The city needs to be seen as the place to be for businesses wanting to grow and raise capital, said Alasdair Haynes, the CEO of Aquis Exchange, an upstart rival to the London Stock Exchange and the CBOE.
+
+“We’re brilliant at start-up capital… When it comes to scale-up capital, we are absolutely rubbish,” Haynes told CNN.
+
+The key is to change regulation to make it easier for smaller companies to list and for the public to invest in them ahead of an IPO. “It doesn’t mean lowering standards. It means rules should be proportionate and appropriate for the size of a business,” Haynes said.
+
+London has plenty of potential. It is home to 100 tech “unicorns” — companies valued at more than $1 billion, says the City of London Corporation. That’s more than in the rest of Europe combined. It is also the third biggest fintech hub in the world.
+
+Those “unicorns” should be listing in London “at an earlier stage,” Haynes argues, “rather than growing through private equity and being sold off to Nasdaq.”
+
+Hoggett of the London Stock Exchange puts it this way: “London needs to be young, scrappy and hungry.”Tokyo Reuters —
+
+The Bank of Japan (BOJ) maintained ultra-low interest rates on Friday and held off making changes to its controversial bond yield control policy, leaving options open ahead of a leadership transition in April.
+
+Though widely expected by most analysts, the decision sent the yen and local bond yields tumbling as some investors unwound bets retiring central bank governor Haruhiko Kuroda would tweak the yield curve control (YCC) at his last policy meeting.
+
+Kuroda leaves the bank with a mixed legacy: His massive stimulus is praised for pulling the economy out of deflation, but straining bank profits and distorting market function with prolonged low interest rates.
+
+At its two-day meeting that ended on Friday, the BOJ maintained its short-term interest rate target at -0.1% and that for the 10-year bond yield around 0%.
+
+It also left unchanged a band set around the 10-year yield target that allows the yield to rise up to 0.5%.
+
+“While we did not discount the possibility of a widening of the band to secure a smooth leadership transition, Kuroda appears to have avoided a sharp rise in JGB yields before the end of the fiscal year,” said Norihiro Yamaguchi, senior economist at Oxford Economics.
+
+“The decision to uphold policy rates comes at a cost. The BOJ will be forced to continue its massive JGB purchases to stem speculation of additional YCC tweaks, which will worsen market liquidity,” he said.
+
+Market reaction
+
+The yen was last down about 0.49% at 136.78 against the dollar, trimming losses after a knee-jerk plunge of as much as 0.6% after the no-surprises decision.
+
+The benchmark 10-year JGB yield pulled back sharply from the BOJ’s 0.5% ceiling to stand at 0.445%, while the Nikkei average briefly lost 1.23% due to declines in bank shares.
+
+Many investors expect the central bank to phase out YCC when Kuroda’s successor, Kazuo Ueda, takes the helm in April.
+
+“Ueda won’t abruptly move and probably wait until his second meeting in June, in changing forward guidance and YCC,” said Masamichi Adachi, senior Japan economist at UBS Securities.
+
+“The BOJ will likely abandon its 10-year bond yield target, while maintaining negative interest rates, to arrest distortions in the yield curve,” he said.
+
+For now, the BOJ maintained its dovish guidance on the future policy path, saying that it expects short- and long-term policy rates to remain “at their present or lower levels.”
+
+The BOJ kept unchanged its view Japan’s economy will likely recover. But it offered a bleaker view than in January on output and exports to say they were “moving sideways” in a nod to recent weaknesses in factory production and overseas demand.
+
+In January, the central bank said output and exports were increasing as a trend.
+
+Ueda up next
+
+With inflation exceeding its 2% target, the BOJ has been forced to ramp up bond buying to defend the 0.5% cap set for the 10-year bond yield — at the cost of distorting the shape of the yield curve and causing dysfunction in the bond market.
+
+Kuroda has repeatedly said consumer inflation, now running at double the pace of the BOJ’s 2% target, will begin to slow as the effect of past spikes in fuel and raw material prices fades.
+
+Data released on Friday showed Japan’s wholesale prices rose 8.2% in February from a year earlier to mark the second straight month of year-on-year slowdown, heightening the chance the rise in consumer inflation will start to moderate in coming months.
+
+In parliament hearings last month, Ueda echoed Kuroda’s calls to keep ultra-loose policy. But the incoming governor said he had ideas on how to exit low rates, and was open to the idea of re-assessing the current policy framework.
+
+A majority of economists polled by Reuters expect the BOJ to end YCC this year with half saying Ueda will carry out tweaks to the policy within three months.
+
+The upper house of parliament on Friday approved the government’s appointment of Ueda and his two new deputies, Shinichi Uchida and Ryozo Himino, finalizing the confirmation of the new BOJ leadership.
+
+Ueda will chair his first policy meeting on April 27 to 28, when the board will produce closely watched, fresh quarterly growth and price forecasts extending through fiscal 2025.

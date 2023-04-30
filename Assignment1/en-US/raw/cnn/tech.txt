@@ -1,0 +1,943 @@
+New York CNN —
+
+Roku held approximately $487 million of its $1.9 billion in cash at Silicon Valley Bank, which collapsed Friday and was taken over by the Federal Deposit Insurance Corporation, the streaming technology company disclosed in an SEC filing.
+
+That’s approximately 26% of the company’s cash and cash equivalents, Roku (ROKU) said, adding that most of its deposits with the bank are uninsured.
+
+“The company’s deposits with SVB are largely uninsured,” Roku said. “At this time, the company does not know to what extent the company will be able to recover its cash on deposit at SVB.”
+
+However, Roku said it has enough existing cash and cash flow from operations to “meet its working capital, capital expenditures, and material cash requirements from known contractual obligations for the next twelve months and beyond.”
+
+SVB collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a financial institution in US history.
+
+California regulators closed down the tech lender and put it under the control of the FDIC.
+
+The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+Other companies face fallout
+
+Roblox also said in a filing that 5% of its $3 billion in cash was held at SVB. The video game company said the collapse will not affect its day-to-day operations.
+
+Crytpo lender BlockFi, which filed for bankruptcy in November, disclosed it held $227 million with SVB in a bankruptcy filing Friday. BlockFi said in November it had halted withdrawals after facing “significant exposure” to Sam Bankman-Fried’s FTX exchange, as well as its sister hedge fund Alameda.
+
+BlockFi’s money in SVB is not FDIC-insured because it was in a money market mutual fund, the company learned from its bankruptcy trustee early this week.
+
+And aerospace manufacturer Rocket Lab held almost 8%, or approximately $38 million, of its total cash at the collapsed bank, it said in a Friday filing.New York CNN —
+
+Silicon Valley Bank collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a financial institution in US history.
+
+California regulators closed down the tech lender and put it under the control of the US Federal Deposit Insurance Corporation. The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+The FDIC, an independent government agency that insures bank deposits and oversees financial institutions, said all insured depositors will have full access to their insured deposits by no later than Monday morning. It said it would pay uninsured depositors an “advance dividend within the next week.”
+
+The bank, previously owned by SVB Financial Group, didn’t respond to CNN’s request for comment.
+
+What happened?
+
+The wheels started to come off on Wednesday, when SBV announced it had sold a bunch of securities at a loss and that it would sell $2.25 billion in new shares to shore up its balance sheet. That triggered a panic among key venture capital firms, who reportedly advised companies to withdraw their money from the bank.
+
+The company’s stock cratered on Thursday, dragging other banks down with it. By Friday morning, SBV’s shares were halted and it had abandoned efforts to quickly raise capital or find a buyer. Several other bank stocks were temporarily halted Friday, including First Republic, PacWest Bancorp, and Signature Bank.
+
+The mid-morning timing of the FDIC’s takeover was noteworthy, as the agency typically waits until the market has closed to intervene.
+
+“SVB’s condition deteriorated so quickly that it couldn’t last just five more hours,” wrote Better Markets CEO Dennis M. Kelleher. “That’s because its depositors were withdrawing their money so fast that the bank was insolvent, and an intraday closure was unavoidable due to a classic bank run.”
+
+Silicon Valley Bank’s decline stems partly from the Federal Reserve’s aggressive interest rate hikes over the past year.
+
+When interest rates were near zero, banks loaded up on long-dated, seemingly low-risk Treasuries. But as the Fed raises interest rates to fight inflation, the value of those assets has fallen, leaving banks sitting on unrealized losses.
+
+Higher rates hit tech especially hard, undercutting the value of tech stocks and making it tough to raise funds, Moody’s chief economist Mark Zandi said. That prompted many tech firms to draw down the deposits they held at SVB to fund their operations.
+
+“Higher rates have also lowered the value of their treasury and other securities which SVB needed to pay depositors,” Zandi said. ” All of this set off the run on their deposits that forced the FDIC to takeover SVB.”
+
+Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+Adeyemo said US officials are “learning more information” about the collapse of Silicon Valley Bank. He argued the Dodd-Frank financial reform overhaul, signed into law in 2010, has given regulators the tools they need to address this and improved the capitalization of banks.
+
+Adeyemo declined to predict what, if any, impact there will be to the broader economy or the tech industry.
+
+Echoes of 2008
+
+Despite initial panic on Wall Street over the run on SVB, which caused its shares to crater, analysts said the bank’s collapse is unlikely to set off the kind of domino effect that gripped the banking industry during the financial crisis.
+
+“The system is as well-capitalized and liquid as it has ever been,” Zandi said. “The banks that are now in trouble are much too small to be a meaningful threat to the broader system.”
+
+But smaller banks that are disproportionately tied to cash-strapped industries like tech and crypto may be in for a rough ride, according to Ed Moya, senior market analyst at Oanda.
+
+“Everyone on Wall Street knew that the Fed’s rate-hiking campaign would eventually break something, and right now that is taking down small banks,” Moya said.
+
+‘Idiosyncratic situation’
+
+While relatively unknown outside of Silicon Valley, SVB was among the top 20 American commercial banks, with $209 billion in total assets at the end of last year, according to the FDIC.
+
+It’s the largest lender to fail since Washington Mutual collapsed in 2008.
+
+The bank partnered with nearly half of all venture-backed tech and health care companies in the United States, many of which pulled deposits out of the bank.
+
+Mike Mayo, Wells Fargo senior bank analyst, said the crisis at SVB may be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterly on Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Rate hikes take a bite
+
+SVB’s sudden fall mirrored other risky bets that have been exposed in the past year’s market turmoil.
+
+Crypto-focused lender Silvergate said Wednesday it is winding down operations and will liquidate the bank after being financially pummeled by turmoil in digital assets. Signature Bank, another lender, was hit hard by the bank selloff, with shares sinking 30% before being halted for volatility Friday.
+
+“SVB’s institutional challenges reflect a larger and more widespread systemic issue: The banking industry is sitting on a ton of low-yielding assets that, thanks to the last year of rate increases, are now far underwater — and sinking,” wrote Konrad Alt, co-founder of Klaros Group.
+
+Alt estimated that rate increases have “effectively wiped out approximately 28% of all the capital in the banking industry as of the end of 2022.”London CNN —
+
+The failure of Silicon Valley Bank is rattling markets and raising uncomfortable questions: Will it undermine the broader banking system and start a new meltdown?
+
+Billionaire hedge fund manager Bill Ackman has compared SVB to Bear Stearns, the first lender to collapse at the start of the 2007-2008 global financial crisis.
+
+“The risk of failure and deposit losses here is that the next, least well-capitalized bank faces a run and fails, and the dominoes continue to fall,” Ackman wrote on Twitter.
+
+Yet most analysts say the implosion of SVB appears company-specific for now. A crucial lender to US technology startups, the bank came under pressure as Silicon Valley funding dried up, the result of an economic slowdown and rapidly rising interest rates.
+
+“The reason [SVB is] in trouble is because they have exposure to particular industries,” said Jonas Goltermann, deputy chief markets economist at Capital Economics. Most other banks, he added, are more “diversified.”
+
+And Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+There’s also less anxiety about the stability of the banking sector due to the significant regulatory reforms put in place after the crisis in 2008.
+
+Still, SVB’s collapse reveals stresses created by the fastest jump in borrowing costs in decades. Central banks have raised interest rates to tame high inflation, but the pace of the increases has thrown up unexpected problems. And worries persist about further unintended consequences.
+
+For example, banks that scooped up US Treasuries and other bonds when interest rates were very low are now sitting on losses as borrowing costs have risen and bond prices have gone down.
+
+Bank stocks rattled
+
+Founded in 1983, SVB provided financing for almost half of US venture-backed technology and health care companies. Its problems came to light this week when it revealed that it was in dire need of funds. The company shared plans Wednesday to raise more than $2 billion from investors to fill a hole in its finances created by the sale of part of its hard-hit bond portfolio.
+
+SVB put the bonds up for sale as customers, facing leaner times, pulled their money from the bank. Shares of SVB plunged 60% on Thursday. Trading in the stock was halted Friday amid reports that the bank, unable to raise all the money it needed, was hunting for a buyer.
+
+Then California’s regulators intervened, shutting the bank down and calling in the US Federal Deposit Insurance Corporation to act as receiver. Silicon Valley Bank had about $209 billion in total assets and $175 billion in total deposits as of the end of last year, according to the FDIC.
+
+In a sign concerns are spilling into other parts of the banking sector, shares of other lenders have been falling, too. JPMorgan Chase (JPM), Bank of America (BAC), Wells Fargo (WFC) and Citigroup (C) all suffered drops of between 4% and 7% Thursday.
+
+While their shares stabilized on Friday, smaller banks continued to suffer. An exchange-traded fund tracking regional banks, the SPDR S&P Regional Banking ETF, was down more than 6%. Banks in Europe were also hit.
+
+What happens next?
+
+Other lenders with highly specialized clientele could come under pressure. Crypto-focused lender Silvergate said Wednesday that it was winding down operations after recent turmoil in digital assets pummeled its finances.
+
+But the risks of broader contagion are thought to be limited for now.
+
+“Overall, the banking system is in good shape and able to withstand significant shocks,” said Jens Hagendorff, a finance professor at King’s College London. “I think SVB is special in the sense that they have a fickle depositor base.”
+
+Mike Mayo, senior bank analyst at Wells Fargo, said the crisis at SVB might be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterley Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Similarly, former US Treasury Secretary Larry Summers told Bloomberg News Friday that he saw “no systemic risk” if the situation “is handled reasonably,” adding he had “every reason to think that it will be.”
+
+Yet the tumult reveals the bind banks could find themselves in as economic and market conditions change rapidly.
+
+SVB’s downfall was tied, in part, to the plunge in the value of bonds it bought up during boom times, when it had a lot of customer deposits coming in and needed somewhere to park the cash.
+
+The rise in interest rates has made low-yielding assets like bonds worth a lot less. That caused problems when the bank needed to raise funds quickly.
+
+“[Falling bond prices are] only really a problem in a situation where your balance sheet is sinking quite quickly… [and you] have to sell assets that you wouldn’t ordinarily have to sell,” said Luc Plouvier, senior portfolio manager at Van Lanschot Kempen, a Dutch wealth management firm.
+
+SVB may not be the only institution that needs to tackle this issue.
+
+“Many institutions — from central banks, commercial banks and pension funds — sit on assets that are worth significantly less than reported in their financial statements,” Hagendorff said. “The resulting losses will be large and need to be financed somehow. The scale of the problem is starting to cause concern.”
+
+— Allison Morrow, Nicole Goodkind and Matt Egan contributed reporting.CNN —
+
+The sudden collapse of a top Silicon Valley lender has pushed tech investors and startups to scramble to figure out their financial exposure and the impact on their ability to operate, at a time when many businesses were already on edge from widespread layoffs and less access to capital in an uncertain economy.
+
+California regulators closed down Silicon Valley Bank on Friday and put it under control of the US Federal Deposit Insurance Corporation. The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+The move capped off a stunning 48 hours during which uncertainty about the prominent tech lender’s liquidity prompted some startups to weigh withdrawing funds and also sparked fears of a contagion risk for the broader financial industry.
+
+Following the bank’s collapse on Friday, uncertainty in the startup community only grew, with founders worrying about getting their money out, making payroll and covering operating expenses.
+
+“Now that the bank has folded, I just want to know what happens next,” Ashley Tyrner, founder of health food delivery company FarmboxRx, told CNN in an e-mail. “The FDIC covers 250K, but am I going to recover my whole 8 figures?”
+
+Parker Conrad, the CEO and co-founder of HR platform Rippling, said Friday that his company has learned that some customers’ payrolls are being delayed due to the bank’s “solvency challenges.”
+
+“Our top priority is to get our customers’ employees paid as soon as we possibly can, and we’re working diligently toward that on all available channels, and trying to learn what the FDIC takeover means for today’s payments,” he wrote on Twitter.
+
+Arjun Sethi, an investor at Tribe, tweeted Friday that “right now VCs are writing emails to disclose SVB exposure.” Meanwhile, Sam Altman, the CEO of OpenAi and former president of startup accelerator Y Combinator, said investors should consider offering “emergency cash to your startups that need it for payroll or whatever.”
+
+He added: “no docs, no terms, just send money.”
+
+At least one company attempted to get money quick, by offering a last-minute sale.
+
+Ben Kaufman, co-founder of the venture-backed toy store and online retailer Camp, said in an email to customers that “most of our company’s cash assets” were held “at a bank which just collapsed.” In the same email, Kaufman announced a 40% off deal on all online merchandise for customers using the code: “BANKRUN.”
+
+“Or you can pay full price without the code– which is also appreciated,” he wrote. Kaufman said all sales from this point forward “allow us to generate the cash needed to continue operations so we can continue to deliver unforgettable family memories.”
+
+“Mass hysteria”
+
+Even before the collapse, a number of startups were said to have weighed pulling their money from the bank, according to media reports and public posts from venture capitalists.
+
+Founders Fund, an influential venture capital firm founded by billionaire Peter Thiel, reportedly advised its portfolio companies to pull money from the bank. (A Founders Fund rep declined CNN’s request for comment). Tribe Capital, meanwhile, urged companies to be mindful of where they keep their money and how they fundraise.
+
+“Any bank with a business model is dead if everyone moves,” Sethi wrote in a memo to founders, which he shared on Twitter. “Since risk is nonzero and the cost, it’s better to diversify your risk, if not all.”
+
+Sethi urged founders to “hold your assets in the most liquid traditional banks, and do not take unnecessary risks.” He also recommended founders “call every debt line, close all primary rounds, do it now, and be willing to make concessions.”
+
+But by time Tyrner’s company tried to pull funds, it was too late, she said.
+
+“The entire SVB system was down,” she told CNN. “We couldn’t log in to our accounts, couldn’t contact anyone, their helpline rang to a “disconnected” message or just hung up… none of our account reps would respond to calls or emails.”
+
+Other prominent venture capitalists had called for calm in an apparent bid to avoid fueling panic. Mark Suster, a partner at venture capital firm Upfront Ventures, urged those in the VC community to “speak out publicly to quell the panic” around Silicon Valley Bank, saying in a lengthy Twitter thread that “classic ‘runs on the bank’ hurt our entire system.”
+
+While urging people to stay calm, however, he added, “I know some have already withdrawn money. I know some are advising this. I know it’s scary…What matters is that we don’t have or create mass hysteria.”
+
+Villi Iltchev, a partner at Two Sigma Ventures, similarly said his peers should “support” the bank. “SVB is the most important capital provider to tech startups and the biggest supporter of the community,” he said in a tweet. “Now is the time to support them.”
+
+Adding to challenges in startup market
+
+The rapidly unfolding fallout at Silicon Valley Bank comes at a challenging moment for the tech industry. Rising interest rates have eroded the easy access to capital that helped fuel soaring startup valuations and funded ambitious, money-losing projects. Venture funding in the United States fell 37% in 2022 compared to the year prior, according to data released in January by CBInsights.
+
+At the same time, broader macroeconomic uncertainty and recession fears have prompted some advertisers and consumers to tighten spending, cutting into the industry’s revenue drivers. As a result, the once high-flying tech world has fallen into a steep cost-cutting season marked by mass layoffs and a renewed focus on “efficiency.”
+
+The situation at Silicon Valley Bank may have been worsened by more startups feeling pinched for cash and needing to withdraw funds. Now, the bank’s collapse risks compounding the industry’s cash crunch and broader turbulence.
+
+In his post suggesting a bailout may be needed, Ackman said a Silicon Valley Bank “failure” could “destroy an important long-term driver of the economy as VC-backed companies rely on SVB for loans and holding their operating cash.”
+
+Ackman compared SVB’s situation to Bear Stearns, the first bank to collapse at the start of the 2007-2008 global financial crisis. But this time, the trouble is brewing in Silicon Valley’s backyard.
+
+– CNN’s Allison Morrow contributed to this report.New York CNN —
+
+Facebook-parent Meta is exploring building a new, standalone platform for sharing text updates, the company confirmed to CNN on Friday, in what could mark the most high-profile new contender to take on Twitter as it falters under Elon Musk.
+
+“We believe there’s an opportunity for a separate space where creators and public figures can share timely updates about their interests,” a Meta spokesperson said in a statement to CNN, which essentially described Twitter’s mission statement without naming the platform.
+
+The platform, plans for which were earlier reported by Platformer and MoneyControl, would be decentralized, meaning users could ostensibly create different servers or communities, each with their own rules rather than one central platform controlled by Meta. The concept is similar to Reddit or Discord, but a departure from how Meta’s other platforms function.
+
+If Meta’s new platform were decentralized, it could allow third parties to build apps and features into the platform, potentially giving users experiences beyond what Meta itself might build.
+
+The effort, codenamed P92, is in its early stages and is being led by Instagram head Adam Mosseri, according to Platformer.
+
+Meta declined to comment beyond its statement, including in response to questions about the new platform’s potential features or a timeline for launch.
+
+A number of upstart platforms have in recent months attempted to capitalize as Twitter struggles with frequent outages, the return of controversial users and a drop-off in advertisers. Many of them had an early jump in users following Musk’s takeover at Twitter, but have since struggled to gain widespread adoption.
+
+Mastodon, a decentralized social network that was launched in 2016, grew its user base from 300,000 users to more than 2.5 million in the weeks after Musk completed his acquisition of Twitter in late October. But its growth has slowed in recent months, in part as users struggle with the somewhat less straightforward and user-friendly nature of a decentralized platform.
+
+A new service from Meta, however, could benefit from the existing, large user base of the company’s other platforms, including the two billion people who use Facebook daily.
+
+Plans for a new platform come as Meta is also shifting the strategy for its older platforms, emphasizing video and recommended content in an effort to better compete with TikTok. Earlier this week, Facebook head Tom Alison told CNN that the app is testing reincorporating messaging so that users don’t have to go to a separate app to share content they find on Facebook.US Senator Marco Rubio on Thursday introduced legislation that takes aim at Ford’s deal to use technology from Chinese battery company CATL as part of the automaker’s plan to spend $3.5 billion to build a battery plant in Michigan.
+
+Rubio, the top Republican on the Intelligence Committee, introduced legislation that would block tax credits for electric vehicle batteries produced using Chinese technology, saying it would “significantly restrict the eligibility of IRA tax credits and prevent Chinese companies from benefiting.”
+
+Ford said in response to Rubio that “making those batteries here at home is much better than continuing to rely exclusively on foreign imports, like other auto companies do. A wholly owned Ford subsidiary alone will build, own and operate this plant. No other entity will get US tax dollars for this project.”
+
+Last month, Rubio asked the Biden administration to review Ford’s deal to use technology from CATL.
+
+Rubio called for an immediate Committee on Foreign Investment in the United States (CFIUS) review of the licensing agreement between Ford and CATL.
+
+Rubio said the deal “will only deepen US reliance on the Chinese Communist Party for battery tech, and is likely designed to make the factory eligible for Inflation Reduction Act (IRA) tax credits.”
+
+CFIUS is a US Treasury-led interagency panel that reviews proposed transactions to ensure they do not harm national security.
+
+Treasury declined to comment, but Energy Secretary Jennifer Granholm said last month the Ford deal will “bringing advanced manufacturing capabilities from overseas to the United States is key to our competitiveness, will stimulate our economy, and create good-paying American jobs.”
+
+Ford has said the plant would create 2,500 jobs and begin producing lower cost and faster recharging lithium-iron-phosphate batteries in 2026.
+
+The $430 billion IRA imposes restrictions on battery sourcing and is designed to wean the United States off the Chinese supply chain for electric vehicles (EVs). The IRA will eventually bar credits if any EV battery components were manufactured by a “foreign entity of concern,” in a provision aimed at China.New York CNN —
+
+What do you get for the billionaire who has everything? Perhaps his own town.
+
+Entities connected to Elon Musk and his companies have reportedly been acquiring thousands of acres of land in Texas with the hope of starting a town where his employees could live and work, according to a report from the Wall Street Journal Thursday.
+
+These entities have purchased at least 3,500 acres near Austin and are in the process of working toward incorporating a town called Snailbrook, an apparent reference to the mascot of Musk’s tunneling firm, the Boring Company, according to the Journal.
+
+The report cites county deeds and other land records, as well as city and county emails, internal company communications, state licensing records and interviews with land owners and city and county officials. (CNN has not reviewed all of the land and other records cited in the Journal report.)
+
+Over the years, tech companies have offered numerous amenities on campus to recruit workers and sometimes incentivize them to put in longer hours. By building out a company town of his own, Musk could take that approach even further.
+
+According to the report, Musk wants employees at his companies Boring Co., Tesla and SpaceX — all of which have major production facilities near Austin — “to be able to live in new homes with below-market rents.” The Snailbrook effort also reportedly includes plans to build more than 100 homes, as well as neighborhood features such as a pool and outdoor sports area.
+
+Incorporating a town might also give Musk, who has been known to clash with state and federal regulators, more say over how things are run.
+
+Musk in 2020 announced he would move Tesla’s headquarters and his personal residence from California to Texas, blaming frustrations with California’s coronavirus-related restrictions. Last year, Tesla opened a new Gigafactory manufacturing facility in Austin. Musk’s SpaceX and Boring Co. also have facilities in Texas, and Boring Co. has reportedly been in talks with Austin about the possibility of building tunnels in the city, according to a February report from the Austin American Statesman.
+
+Property records for Bastrop County, which is adjacent to Austin, show that the Boring Co. owns 11 parcels of land on one address near the Colorado River where mobile homes were built over the past three years, according to records reviewed by CNN. The Texas Commission on Environmental Quality is set to hold a meeting on plans for a wastewater treatment plant on the same site, which were submitted by an LLC registered to a Boring Co. executive, according to a public announcement of the meeting.
+
+That same entity also owns a number of parcels of nearby property comprising commercial and residential building plots and pasture and farming land, public records show. The Journal reported that Musk’s team has discussed incorporating the town in Bastrop County. The county told the Journal that it had not received an application for incorporation, which requires a certain number of residents, from Musk or any of his entities.
+
+Tesla, SpaceX and Boring Co. did not immediately respond to a request for comment on the report.CNN —
+
+Lithium-ion batteries, found in many popular consumer products, are under scrutiny again following a massive fire this week in New York City thought to be caused by the battery that powered an electric scooter.
+
+At least seven people have been injured in a five-alarm fire in the Bronx which required the attention of 200 firefighters. Officials believe the incident stemmed from a lithium-ion battery of a scooter found on the roof of an apartment building. In 2022, the the New York City Fire Department responded to more than 200 e-scooter and e-bike fires, which resulted in six fatalities.
+
+“In all of these fires, these lithium-ion fires, it is not a slow burn; there’s not a small amount of fire, it literally explodes,” FDNY Commissioner Laura Kavanagh told reporters. “It’s a tremendous volume of fire as soon as it happens, and it’s very difficult to extinguish and so it’s particularly dangerous.”
+
+A residential fire earlier this week in Carlsbad, California, was suspected to be caused by an e-scooter lithium battery. On Tuesday, an alarming video surfaced of a Canadian homeowner running downstairs to find his electric bike battery exploding into flames. A fire at a multi-family home in Massachusetts last month is also under investigation for similar issues.
+
+These incidents are becoming more common for a number of reasons. For starters, lithium-ion batteries are now in numerous consumer tech products, powering laptops, cameras, smartphones and more. They allow companies to squeeze hours of battery life into increasingly slim devices. But a combination of manufacturer issues, misuse and aging batteries can heighten the risk from the batteries, which use flammable materials.
+
+“Lithium batteries are generally safe and unlikely to fail, but only so long as there are no defects and the batteries are not damaged or mistreated,” said Steve Kerber, vice president and executive director of Underwriters Laboratory’s (UL) Fire Safety Research Institute (FSRI). “The more batteries that surround us the more incidents we will see.”
+
+In 2016, Samsung issued a global recall of the Galaxy Note 7 in 2016, citing “battery cell issues” that caused the device to catch fire and at times explode. HP and Sony later recalled lithium computer batteries for fire hazards, and about 500,000 hoverboards were recalled due to a risk of “catching fire and/or exploding,” according to the U.S. Consumer Product Safety Commission.
+
+In 2020, the Federal Aviation Administration banned uninstalled lithium-ion metal batteries from being checked in luggage and said they must remain with a passenger in their carry-on baggage, if approved by the airline and between 101-160 watt hours. “Smoke and fire incidents involving lithium batteries can be mitigated by the cabin crew and passengers inside the aircraft cabin,” the FAA said.
+
+Despite the concerns, lithium-ion batteries continue to be prevalent in many of today’s most popular gadgets. Some tech companies point to their abilities to charge faster, last longer and pack more power into a lighter package.
+
+But not all lithium batteries are the same.
+
+The problem with lithium batteries
+
+Dylan Khoo, an analyst at tech intelligence firm ABI Research, said electric bikes and scooters use batteries which can be around 50 times larger than the one in a smartphone. “So when a fire does happen, it’s much more dangerous,” Khoo said.
+
+All lithium-ion batteries use flammable materials, and incidents such as the one in the Bronx are likely the result of “thermal runaway,” a chain reaction which can lead to a fire or catastrophic explosion, according to Khoo.
+
+“This process can be triggered by a battery overheating, being punctured, or an electrical fault like a short circuit,” Khoo said. “In cases where fires occur spontaneously while charging, it is likely due to manufacturing defects.”
+
+According to Kerber, the number of lithium-ion battery-based fires is growing with enormous frequency both in the United States and internationally, particularly when it comes to e-bikes and e-scooters, due to an uptick in purchases of these products during the pandemic.
+
+“After Covid started, scooter use went dramatically up, especially in places like New York City, for deliveries,” Kerber said. “People started to get overcharged for them and turned to manufacturers which happened to have lower quality control with the battery systems. The quality manufacturers are not having issues.”
+
+“It will continue to happen until there are regulations around the quality of these devices,” Kerber said.
+
+What consumers can do
+
+Kerber recommends people buy UL-certified electric bikes and scooters from reputable retailers; online marketplaces often make it hard for customers to tell where products are actually coming from. If a fire occurs, he advised people to evacuate and call 911 immediately rather than trying to put it out themselves.
+
+“The fire spreads incredibly fast and a fire extinguisher is not effective,” he said.
+
+Beyond scooters and e-bikes, experts warn anyone with a lithium-ion battery should follow proper charging and battery usage guidelines. According to researchers at the University of Michigan, any device with this kind of battery should be charged and stored in a cool, dry place, and not left charging for too long or while you’re asleep – a recommendation likely at odds with how many consumers handle their devices.
+
+“Elevated temperatures can accelerate degradation of almost every battery component and can lead to significant safety risks, including fire or explosion,” the researchers said. “If a laptop or cellphone is noticeably hot while it’s charging, unplug it. Minimize exposure to low temperatures, especially when charging.”
+
+Batteries should also be routinely inspected to make sure there is no cracking, bulging or leaking, and people should always use the charger that came with the device or use one from a reputable supplier. When charging an electric scooter or bike, Kerber said it should never block a fire escape or exit route.
+
+Although some battery chemistries are safer than others, we are still a few years away from adoption of a better, safer lithium-ion alternative, according to Sridhar Srinivasan, a senior director at market research firm Gartner.
+
+For example, LFP (lithium iron phosphate) batteries don’t overheat as much as other types of lithium-ion batteries. Future battery technologies in development, such as sodium-ion or solid state batteries, are also expected to address some of the safety issues of lithium ion.Hong Kong CNN —
+
+Europe’s biggest producer of advanced chipmaking technology has joined the United States in its escalating standoff with China.
+
+The Netherlands announced Wednesday, via a letter from its trade minister to parliament, that new restrictions on overseas sales of semiconductor technology were needed to protect national security.
+
+While the letter didn’t name ASML Holdings, Europe’s biggest tech firm, the curbs will affect the Dutch company, which is a key supplier to global chipmakers, including those in China.
+
+The announcement marks the first public move by the Dutch government toward adopting rules, advocated by Washington, to restrict China’s chipmaking industry.
+
+Japan has also been involved in three-way discussions with the Netherlands and the United States, a source familiar with the talks told CNN. Reuters reported that Tokyo is expected to issue an update on its policies on chip equipment exports as soon as this week.
+
+China said Thursday it “firmly opposes” the Netherlands’ upcoming curbs, which come just months after the United States restricted sales of some semiconductor machinery to Beijing. For those measures to really bite, Washington needs other important suppliers, located in the Netherlands and Japan, to join.
+
+Chinese foreign ministry spokesperson Mao Ning accused “certain countries” of “coercing and inducing other countries to take export restriction measures against China at the expense of their allies’ interests.”
+
+She didn’t name the United States, but Chinese officials often use the term “certain countries” or “some countries” when making critical comments about Washington.
+
+“We hope the Netherlands won’t follow some countries in abusing export control measures,” Mao said. “China will take all necessary countermeasures to protect our legitimate rights and interests.”
+
+This week, Chinese leader Xi Jinping hit out at the United States with unusually direct comments as he called on China’s private companies to “fight” alongside the Communist Party at a time of mounting challenges. He accused Western countries led by the United States of trying to “contain” and “suppress” China.
+
+Beijing has set a target for China to become a global leader in a wide range of industries, including artificial intelligence, 5G wireless technology and quantum computing.
+
+Intensifying competition
+
+In October, those plans came up against a major obstacle when the Biden administration banned Chinese companies from buying advanced chips and chipmaking equipment without a license. It also restricted the ability of American citizens to provide support for the development or production of chips at certain manufacturing facilities in China.
+
+Chips are vital for everything from smartphones and self-driving cars to advanced computing and weapons manufacturing.
+
+Veldhoven-based ASML is a global leader in the production of lithography machines, which employ light to print patterns on silicon. Customers such as TSMC, Samsung (SSNLF) and China’s SMIC use the Dutch company’s equipment to mass-produce microchips.
+
+“These new export controls focus on advanced chip manufacturing technology, including the most advanced deposition and immersion lithography tools,” ASML said in a statement. “Due to these upcoming regulations, ASML will need to apply for export licenses for shipment of the most advanced immersion … systems.”
+
+It added that it didn’t expect the upcoming measures to have a material effect on its 2023 financial outlook. The company has mainly sold “mature” products to China.
+
+European battleground
+
+The announcement of the Netherlands’ export restrictions, the details of which are expected to be confirmed before the summer, isn’t the first time the US-China tech rivalry spilled over into Europe.
+
+Two European semiconductor deals ran into trouble last year over links with Beijing, in a sign of concern spreading in the West over potential Chinese control of critical infrastructure.
+
+In November, the new owner of Britain’s biggest chipmaker was ordered to unwind its takeover, just days after another chip factory sale was blocked in Germany. Both transactions were hit by national security concerns, and had involved acquisitions by Chinese-owned companies.
+
+In the United Kingdom, Nexperia, a Dutch subsidiary of Shanghai-listed semiconductor maker Wingtech, was told by the government to sell at least 86% of its stake in Newport Wafer Fab, more than a year after taking control of the factory. Staffers have since protested the decision, saying it puts nearly 600 jobs at risk.
+
+In Germany, the economic ministry barred Elmos Semiconductor, an automotive chipmaker, from selling its factory in the city of Dortmund to Silex, a Swedish subsidiary of China’s Sai Microelectronics.
+
+The failed deals illustrate how, at a time of escalating US-China tensions, Europe is also under growing pressure to act, particularly as officials face US calls for key sectors to be kept out of Chinese control.
+
+— CNN’s Laura He and Michelle Toh contributed to this report1. How relevant is this ad to you?
+
+Video player was slow to load content Video content never loaded Ad froze or did not finish loading Video content did not start after ad Audio on ad was too loud Other issuesAmsterdam/Washington Reuters —
+
+The Netherlands’ government on Wednesday said it plans new restrictions on exports of semiconductor technology to protect national security, joining the US effort to curb chip exports to China.
+
+The announcement marked the first concrete move by the Dutch, who oversee essential chipmaking technology, toward adopting rules urged by Washington to hobble China’s chipmaking industry and slow its military advances.
+
+The US in October imposed sweeping export restrictions on shipments of American chipmaking tools to China, but for the restrictions to be effective it needs other key suppliers in the Netherlands and Japan, who produce key chipmaking technology, to agree. The allied countries have been in talks on the matter for months.
+
+Dutch Trade Minister Liesje Schreinemacher announced the decision in a letter to parliament, saying the restrictions will be introduced before the summer.
+
+Her letter did not name China, a key Dutch trading partner, nor did it name ASML Holding (ASML), Europe’s largest tech firm and a major supplier to semiconductor manufacturers, but both will be affected. It specified one technology that will be impacted is “DUV” lithography systems, the second-most advanced machines that ASML sells to computer chip manufacturers.
+
+“Because the Netherlands considers it necessary on national security grounds to get this technology into oversight with the greatest of speed, the Cabinet will introduce a national control list,” the letter said.
+
+A White House representative did not immediately respond to a request for comment.
+
+Commercial impact
+
+ASML said in a response it expects to have to apply for licenses to export the most advanced segment among its DUV machines, but that would not impact its 2023 financial guidance.
+
+ASML dominates the market for lithography systems, multimillion dollar machines that use powerful lasers to create the minute circuitry of computer chips.
+
+The company expects sales in China to remain about flat at 2.2 billion euros in 2023, implying relative shrinkage as the company expects overall sales to grow by 25%. Major ASML customers such as TSMC and Intel (INTC) are engaged in capacity expansions.
+
+ASML has never sold its most advanced “EUV” machines to customers in China, and the bulk of its “DUV” sales in China go to relatively less advanced chipmakers. Its biggest South Korean customers, Samsung (SSNLF) and SK Hynix both have significant manufacturing capacity in China.
+
+The Dutch announcement leaves major questions unanswered, including whether ASML will be able to service the more than 8 billion euros worth of DUV machines it has sold to customers in China since 2014.
+
+Schreinemacher said the Dutch government had decided on measures “as carefully and precisely as possible … to avoid unnecessary disruption of value chains.”
+
+“It is for companies of importance to know what they are facing and to have time to adjust to new rules,” she wrote.
+
+Japan is expected to issue an update on its chip equipment export policies as soon as this week.Washington CNN —
+
+US national security officials are concerned that TikTok could use its vast global reach to shape public opinion by either suppressing certain videos or promoting others, the head of the National Security Agency and US Cyber Command told lawmakers on Tuesday.
+
+“It’s not only the fact that you can influence something, but you can also turn off the message as well when you have such a large population of listeners,” Gen. Paul Nakasone said in testimony before the Senate Armed Services Committee.
+
+TikTok’s collection of data and its control over the algorithm that serves user content are also concerning, Nakasone said.
+
+Nakasone’s comments follow a directive from the White House that gives US federal agencies 30 days to remove TikTok from government-issued devices. And they come amid a major policy debate in Washington about what to do about one of the most popular apps among American youth.
+
+US officials have for years accused TikTok – and its Chinese parent firm ByteDance – of collecting data that could enable surveillance by the Chinese government. TikTok denies the allegations and has called on the Biden administration to finalize a national security deal that would allow TikTok to continue operating in the US in exchange for greater US government visibility into how it collects and stores data on Americans.
+
+A TikTok spokesperson said that the company has been working with the US government to address national security concerns.
+
+“Our status has been debated in public in a way that is divorced from the facts of that agreement and what we’ve achieved already. We will continue to do our part to deliver a comprehensive national security plan for the American people,” Brooke Oberwetter from TikTok said in statement.
+
+Some House lawmakers have pushed legislation that could effectively force the Biden administration to impose an outright ban on TikTok, but the prospects of that bill becoming law are slim.
+
+A bipartisan Senate bill that Virginia Democrat Mark Warner and South Dakota Republican John Thune are expected to unveil on Tuesday would give the Commerce Department authority to develop “mitigation measures,” up to and including a ban, to meet the risk posed by foreign-linked technologies.
+
+Like the US government push to ban hardware and other gear made by Huawei, another Chinese technology giant, US officials are often short on specifics when asked to show public proof of collusion between the Chinese government and ByteDance.
+
+“People are always looking for the smoking gun in these technologies,” NSA Cybersecurity Director Rob Joyce told reporters in December. “I characterize it much more as a loaded gun.”
+
+“I would not expect individualized targeting through [TikTok] to do malicious things,” Joyce said. “Where I’m concerned is the overall ability to do large-scale influence.”CNN —
+
+Investors are betting that Washington’s mounting scrutiny on TikTok could be good news for rival Snapchat.
+
+Shares of Snapchat’s parent company surged nearly 10% on Monday and another 5% in early trading Tuesday following news that US senators are planning to introduce legislation that could make it easier to ban rival app TikTok.
+
+Virginia Democratic Sen. Mark Warner is expected to unveil bipartisan legislation Tuesday afternoon that expands President Joe Biden’s authority to ban TikTok and other suspected information technology risks from the United States, a person familiar with the matter told CNN. The bill is expected to have nearly a dozen co-sponsors from both sides of the aisle.
+
+The stock surge suggests some on Wall Street are taking the possibility of a TikTok ban more seriously, after years of chatter in the nation’s capital about cracking down on the short-form video app due to security concerns related to its Chinese parent company.
+
+It also highlights how lawmakers’ efforts to address the perceived threat of TikTok could ultimately benefit large US tech platforms, including dominant companies that some in Washington also want to rein in for other reasons.
+
+Angelo Zino, senior equity analyst CFRA Research, wrote in a note Monday that the “biggest beneficiaries of a TikTok ban” would be Snapchat, Facebook-parent Meta, and YouTube.
+
+“TikTok’s emphasis on short-form videos has increased engagement/time spent by consumers and has upended the entire industry, creating a headwind for META/SNAP,” Zino wrote. “Given TikTok’s growing engagement/user growth, it has been taking an increasing portion of the digital ad dollars pie from other social media players.”
+
+In recent years, TikTok’s popularity has led a number of major US apps to imitate some of its features, including the launch of Instagram’s Reels and YouTube’s Shorts.
+
+Shares of YouTube’s parent company Alphabet were essentially flat on Tuesday. Meta, which is up 50% so far this year thanks to its commitment to “efficiency,” was up slightly in early trading Tuesday, likely because of a report claiming it’s planning more layoffs.
+
+A TikTok ban, or the possibility of it, may just be one more positive for Meta’s stock this year.
+
+– CNN’s Brian Fung contributed to this report.New York CNN —
+
+Nearly a decade after Facebook angered some users by splitting off messaging features from its flagship social networking application and forcing people to download a separate app to chat with friends, the company is now testing out reversing the move.
+
+In an interview with CNN, Facebook head Tom Alison said the platform is testing bringing messaging capabilities back to the Facebook app so users can more easily share content without having to use the Messenger app. The test comes as Facebook looks to beat back competition from TikTok by bolstering its position both as a platform to discover new content and discuss it.
+
+“We believe that content feeds into not just you consuming it but being conversation starters and starting that message thread with your friends or being something that you can share into a group of people who share your same interests,” Alison said. “I think the thing that will differentiate Facebook and Instagram from TikTok and others is just the depth of being able to start a conversation with your friends from this content and have that kind of social dimension.”
+
+The move, which Alison also announced in a blog post Tuesday, comes after Facebook revised its strategy last year amid concerns about a stagnant and aging user base. No longer would the platform simply be about connecting friends and family. Instead, founder Mark Zuckerberg wanted Facebook to become a “discovery engine.”
+
+Facebook redesigned its home feed to surface more entertaining posts from across the platform, with AI-powered content recommendations, rather than just showing posts from those specifically in a user’s network. (A new, separate tab fulfilled the desire for the latter.) The goal was clear: to keep users engaged longer and help the platform better compete with TikTok and its steady stream of recommended content.
+
+Nine months later, that shift has begun to pay off, Alison told CNN. The platform last month reported that it hit 2 billion daily active users in the December quarter.
+
+“A lot of the narrative leading up to this has been that Facebook is in decline or Facebook’s best days are behind it,” Alison said, “and part of what we’re trying to do with this milestone is say, ‘hey, look, that’s actually not true.”
+
+There have been no shortage of rumors of Facebook’s demise over the years, from its admission of having a “teen problem” a decade ago to the more recent series of PR debacles for the social network and its parent company, Meta. TikTok’s rapid rise and even the success of Facebook’s sister service, Instagram, have also taken some of the shine off the aging social network Zuckerberg launched in a dorm room nearly 20 years ago. But its audience has resumed growing, for now.
+
+Alison, who has been in charge of the Facebook app since July 2021, said the introduction of the “discovery engine” strategy is just the beginning of a larger shift for the platform, as Facebook works to forge a path to continued growth and relevance over the next two decades.
+
+“For the last almost 20 years … we’ve been really known for friends and family, but over the next 20 years, what we’re really working toward is being known for social discovery,” he said. “It’s going to be about helping you connect with the people that you know, the people that you want to know and the people that you should know.”
+
+While Facebook and Instagram have struggled in their attempts to keep pace with TikTok, including through copycat features like Reels, Alison argues Facebook has a leg up on TikTok thanks to its roots in helping people connect with their networks.
+
+For some creators, for example, Facebook has become a place to create groups of fans and hold conversations beyond the content they share to Instagram and TikTok, Alison said. “I think it’s helping them get closer to their fans on Facebook in a way they can’t do on other platforms.”
+
+As Facebook plots its evolution, it will have to contend with what Zuckerberg has called the company’s “year of efficiency,” an effort to cut costs after a broader reckoning in the tech industry and investor skepticism around its pricey plan to center its business model around the future version of the internet it calls the metaverse.
+
+“One of the things that we are embracing with the year of efficiency is prioritization and, frankly, just focusing more effort on some of our bigger bets,” Alison said. The platform has over the past year shuttered some smaller efforts, such as its Bulletin newsletter subscription service, in favor of investing in key areas like AI. “That’s a lot of the culture that we’re kind of instituting across Meta is just like, how do we do fewer things better? And how do we do them, sometimes, more quickly? Efficiency is not just about cost savings.”1. How relevant is this ad to you?
+
+Video player was slow to load content Video content never loaded Ad froze or did not finish loading Video content did not start after ad Audio on ad was too loud Other issuesNew York CNN —
+
+Twitter’s timeline page appeared to experience a prolonged outage on Wednesday morning, marking the latest service disruption for the platform under new owner Elon Musk.
+
+Some Twitter users who opened up their “for you” timeline were greeted with a blank screen and a message saying, “welcome to your timeline,” encouraging them to follow other users to get tweets to show up even if they already followed various accounts. Other users were met with a “Welcome to Twitter!” message as if they had just joined the platform. The “following” page also failed to load.
+
+There were more than 4,000 user reports of issues on DownDetector, an outage tracker, as of 5:30 a.m. ET on Wednesday. Within about two hours, the issue appeared to have largely resolved. #TwitterDown was trending on the platform Wednesday morning.
+
+The outage marked the second major glitch the platform has experienced in less than a month. Three weeks ago, Twitter users encountered various issues with the platform, including the inability to tweet, send direct messages or follow new accounts.
+
+Twitter has experienced a range of technical glitches since Musk took over the company and laid off more than half its staff late last year. Users have previously reported issues with the app’s two-factor authentication tool, seeing replies listed above a tweet rather than below it and seeing old tweets show up repeatedly in their feed or mentions.
+
+Some former employees raised concerns that the mass layoffs under Musk could cause the platform to break in big or small ways, after workers with knowledge of Twitter’s key systems were ousted. But Musk has continued to cut staff in an effort to boost Twitter’s bottom line.
+
+Wednesday’s service disruption comes after Twitter reportedly laid off another 10% of its staff earlier this week, including some engineers responsible for site reliability, according to a report from the New York Times.
+
+It’s not clear what caused Wednesday’s apparent outage. Twitter, which eliminated much of its media relations staff last year, did not immediately respond to a request for comment about the issue.New York CNN —
+
+Bim Ali was early in her first pregnancy when billionaire Elon Musk agreed to buy Twitter, where she worked as a program manager on the Redbird core technologies team. During the months of intense uncertainty that followed, Ali stuck with the company, attempting to tune out the deluge of news about the on-again, off-again deal to focus on her health and the health of her child.
+
+“I was really happy, I loved my team, I loved contributing,” Ali said. “I was also pregnant, so [leaving] didn’t even make sense on any level” because that maternity leave might not be guaranteed as a new hire at a different company, she said.
+
+But in November, shortly after Musk completed his acquisition and weeks before she was set to start her five-month maternity leave, Ali was laid off as part of the first round of mass job cuts under the new owner.
+
+January 4 marked Ali’s official separation date from Twitter, leaving her without health insurance, which her job had provided for her family. Her baby was born a week after. Two months later, she has yet to begin looking for a new job, as she is instead spending time with her newborn.
+
+“But I’m not being financially supported like I had planned,” she said. “We have to make some way of staying afloat.”
+
+Ali is one of thousands of current and former Twitter employees whose lives have been upended since Musk began buying up shares of the social media company early last year. Twitter employees endured a corporate circus unlike any other, complete with Musk’s threats to bail on the deal, his public clashes with Twitter executives, the potential for a high-profile trial between Twitter and the Tesla CEO, and finally the deal’s completion immediately followed by rumors of imminent mass layoffs.
+
+Bim Ali, seen here at Twitter's San Francisco headquarters in March 2022, had her official separation date from Twitter on January 4, a week before her first child was born. "I'm not being financially supported like I had planned," she said. Courtesy of Bim Ali
+
+After buying Twitter, Musk cut more than half of its staff then proceeded to lay off and push out even more employees while repeatedly warning that Twitter could go bankrupt. Twitter now reportedly has fewer than 2,000 employees following more cuts late last month, down from around 7,500 before Musk took over.
+
+Former workers who spoke with CNN said the past year has felt like whiplash: they went from working for a company whose culture they loved with a corporate mission they believed in, to hunting for a new job and worrying about the platform’s future under Musk’s leadership as he restored incendiary accounts and alienated advertisers. One former employee told CNN following December layoffs that they felt like they were grieving what had been their “dream job.”
+
+Many workers are now reeling from more generous severance packages they claim they were promised but never materialized. While some have quickly found jobs, others have struggled with a tech job market that’s at its bleakest point in recent memory. And, in some cases, workers are balancing the uncertainty of unemployment with disability or illness, as well as pregnancies, parental leave or other family obligations, according to former employees who have spoken to CNN and legal claims filed against the company.
+
+“We were on the Twitter-coaster, the Elon Musk chapter, for seven months. And during that time, he was in, he was out, it was happening, it wasn’t happening.” Bim Ali, former Twitter engineer
+
+“I wasn’t a software engineer or an executive,” said Michele Armstrong, a former senior audio video engineer, who was laid off seven months after joining the company. “I made a decent wage in San Francisco, but if I don’t find another job, I will have to move out of my apartment because I was paid just enough to live in San Francisco … but I wasn’t one of the people that could sock away a bunch of money.”
+
+Armstrong says she’s now searching for work in the challenging tech job market and dipping into her retirement savings to help pay her rent.
+
+A view of Twitter's headquarters in San Francisco, California, on February 8. Tayfun Coskun/Anadolu Agency/Getty Images
+
+Armstrong and Ali are among the more than 1,500 former employees who have now taken legal action. Ex-Twitter employees have filed arbitration demands and four class action lawsuits against Twitter in pursuit of additional severance they allege they were promised by the company prior to Musk’s takeover. Some former workers have also alleged sex and disability discrimination and other issues, which the company has argued in court are without merit.
+
+“One person can impact our way of living, and unfortunately, we’re seeing the negative impacts of that from how Twitter is being run,” Ali said.
+
+Twitter has moved to dismiss the four class action lawsuits, saying its layoffs were lawful and that employees should pursue their claims in arbitration. A judge ruled last month in the company’s favor that at least some workers could not pursue their claims through a class action suit and must instead proceed through arbitration.
+
+Twitter has not commented publicly on the arbitration demands, but Shannon Liss-Riordan, the lawyer representing hundreds of former Twitter employees, last month made a court filing accusing the company of failing to cooperate with the arbitration process. Twitter, which laid off much of its media relations team last year, did not respond to a request for comment on this story.
+
+‘Nothing to worry about’
+
+Armstrong was in onboarding sessions for a new job at Twitter, which she called her “unicorn company,” the day news broke that Musk had agreed to buy the company. “It was very welcoming,” Armstrong said of the company. “I was respected, and I hadn’t had that anywhere else working in tech.”
+
+But in the months after Musk’s April offer to buy Twitter, employees witnessed near-daily news coverage of their employer and a wide range of questions about the takeover, from uncertainty over the billionaire’s financing to concerns about his “free speech” vision for the platform.
+
+Michele Armstrong, a former senior audio video engineer, was laid off seven months after joining Twitter. Armstrong says she's now searching for work and dipping into her retirement savings to help pay her rent. CNN
+
+“We were on the Twitter-coaster, the Elon Musk chapter, for seven months,” Ali said. “And during that time, he was in, he was out, it was happening, it wasn’t happening, we could’ve been purchased by some other rogue faction, there were so many rumors, so many opinions.”
+
+Of the many rumors that swirled about Musk’s plans for Twitter, former employees say the biggest question internally was whether Musk would conduct layoffs following his takeover.
+
+But former employees say they got some reassurance after a June meeting in which Musk responded to a question about layoffs by telling Twitter workers that “anyone who’s obviously a significant contributor should have nothing to worry about.”
+
+“I thought, well then, I don’t have anything to worry about because I’m a significant contributor,” Armstrong said, who added that she had previously considered starting to look for another job but “then he said that and it kind of changed my mind.”
+
+“The market is hot garbage right now. I was sitting down earlier this week after a wave of rejections and I was kind of like, maybe I should go be a firefighter or something… because the tech jobs are just not happening.” Justine de Caires, former senior software engineer
+
+Like Ali, some employees said that even if they’d wanted to leave, it simply didn’t feel like an option for personal reasons. Other workers were open to the idea of working for Musk, one of the world’s most famous entrepreneurs, despite his reputation as a controversial figure on Twitter and the uncertainty around his plans for the platform.
+
+“Twitter has definitely never been a perfect company … and so I kind of welcome that not necessarily contrarian, but definitely different, approach,” said Justine de Caires, a former senior software engineer who was the lead plaintiff in a class action lawsuit filed against Twitter shortly after the November mass layoffs and who is now pursuing arbitration claims against the company. “I think we definitely could have had something to learn from Elon.”
+
+Former Twitter employee Justine De Caires walks toward an entrance to a federal courthouse in San Francisco, Thursday, Dec. 8, 2022. De Caires is one of the former Twitter employees taking legal action against the company following mass layoffs after Musk took over. Jeff Chiu/AP
+
+Instead, Twitter employees say they heard very little from their new leader in the days immediately after his takeover. De Caires spent the first week under Musk working on Twitter Blue, the subscription service that Musk wanted revamped as part of his urgent effort to bolster revenue. At one point, de Caires said they pulled an all-nighter to help with the effort. Armstrong said she was called in to the office at 8 p.m. one night that first week to help set up audio-video equipment in a conference room in an office building that the company had been in the process of shutting down because the new leadership wanted to have meetings there.
+
+A week after his takeover, Musk laid off around half of Twitter’s staff by email, leaving employees without work — and at least some confused about whether they could seek out new jobs without risking their severance pay — just before the holidays. In the following weeks, Musk continued to push out additional employees, including by asking remaining workers to commit to working “extremely hardcore” or resign.
+
+Musk had denied reports from prior to his takeover that he planned to cut 75% of jobs at Twitter in order to reduce costs, but he has effectively ended up doing something close to that with various rounds of staff reductions over the past four months.
+
+Disappointing severance
+
+In lawsuits and arbitration claims, numerous former Twitter employees have alleged that the company had promised if layoffs did occur following Musk’s takeover, the severance benefits provided would be at least equivalent to what had been offered prior to his acquisition, including two-months base pay, three months accelerated equity vesting, annual bonuses and some continued health insurance coverage.
+
+Instead, Musk’s Twitter offered laid off employees just one month’s severance following layoffs, beyond pay during the notice period that’s required by state and federal laws. That’s far less than rival companies like Meta, which laid off thousands of workers around the same time as the first cuts under Musk and guaranteed them 16 weeks of base pay plus two additional weeks for each year they worked at the company. And for at least some former employees, the severance offer landed in their email spam folder, according to public tweets and former employees who spoke with CNN.
+
+Attorney Shannon Liss-Riordan is representing around 1,500 former Twitter employees taking legal action against the company following Musk's takeover. Jeff Chiu/AP
+
+“I had lots of Twitter employees reaching out to me and saying they relied on” the company’s earlier severance promise, Liss-Riordan told CNN. “They were nervous during all that uncertain time last year when it wasn’t clear what was going to happen with the company, and leadership at Twitter didn’t want to lose their workforce in the meantime, so to keep people there, they made these promises.”
+
+Some former employees say the company’s severance promises had encouraged them to stay at the company last summer amid the uncertainty around Musk’s acquisition, only to regret that as the tech industry entered its most severe downturn in recent memory later in the year.
+
+“It would have been really good to have spent the time in the substantially better tech market while it still existed,” de Caires said. “The market is hot garbage right now. I was sitting down earlier this week after a wave of rejections and I was kind of like, maybe I should go be a firefighter or something… because the tech jobs are just not happening.”
+
+De Caires said that about half of their compensation had been comprised of equity vesting, so losing that portion of the severance package meant missing out on a large chunk of additional money. They and other workers are now hoping to recoup those alleged losses through their arbitration claims.
+
+“A lot of us put in a lot of effort because we love the company and we love to excel,” Ali told CNN. “I think there were a lot of excellent workers at Twitter … we were part of a global movement to tell everyone what’s happening, how it’s affecting you locally, how it’s affecting you nationwide, how it’s affecting you globally. And I think that we all should be compensated fairly for what we’ve done.”CNN —
+
+Apple unveiled its new iPhone 14 lineup at a press event on Wednesday, along with three new Apple Watch models, an update to its popular AirPods product line and a feature that could save lives when cell service isn’t available.
+
+At a closely-watched event from its headquarters in Cupertino, California, Apple showed off four new smartphones, including a larger 6.7-inch iPhone 14 Plus model and an updated iPhone 14 Pro that rethinks the much-maligned notch. In typical Apple fashion, the devices also offer better battery life and camera features than the year prior.
+
+The biggest surprise, however, may be the price: The iPhone 14 and 14 Plus will start at $799 and $899, respectively, the same starting prices as last year’s models. The iPhone 14 Pro and Pro Max start at $999 and $1099, respectively, also unchanged from the year prior. Analysts widely predicted Apple would hike the price of the premium models by $100.
+
+“It is impressive that Apple has maintained year-on-year pricing parity on the new iPhone 14 devices in the US,” said Ben Wood, chief analyst at market research firm CCS Insight. “We had anticipated that inflation, increased production and component costs, and other expenses such as more expensive shipping would have led Apple to increase its retail pricing.”
+
+For Apple, the stakes are always high to convince customers to upgrade devices, and especially the iPhone, which remains its central product. That task is potentially made more difficult this year by broader economic jitters, including fears of a looming recession.
+
+Apple unveils the new iPhone 14 product line at a big press event on Wednesday. Apple
+
+Throughout the event, Apple appeared to alternate between pitching its suite of products as tools for living our best lives and also for avoiding any number of ills that may befall customers in an uncertain world, ranging from car crashes to getting stranded in the wild.
+
+Apple announced several new Apple Watch models, including a higher-end version that costs $799 and is designed to support the needs of a rarefied group of outdoor enthusiasts. It also added an option for its watches to detect when a user has been in a car crash, as well as a satellite connectivity feature for phones, which is intended to help people communicate when their cell service isn’t working.
+
+Here are the big highlights from the event:
+
+The new iPhone 14 lineup
+
+Apple unveiled four new smartphones, including the new iPhone 14 with a 6.1-inch screen and the iPhone 14 Plus with a larger 6.7-inch screen.
+
+The new iPhone 14 features a 12 MP main camera with bigger pixels, a faster aperture and improved sensors. It also uses the same chip as last year’s iPhone 13 Pro model (the A15), the first time it’s repeated a chip in years.
+
+For the first time, however, the new front camera has auto focus, allowing it to focus at multiple distances in low light for better individual and group selfies. It also has a new action mode that lets users keep videos stable while moving.
+
+Apple’s new Pro line features an always-on display and the ability to receive notifications and activities through what the company is calling “the dynamic island,” the much polarizing notch at the top of the phone that is now considered a feature. The Pro line also comes with the first-ever 48 MP camera on an iPhone.
+
+The iPhone 14 Pro. Apple
+
+In a notable shift, the iPhone 14 lineup also eliminates the need for a physical SIM card and instead uses a digital “e-SIM” card. Now, users can store multiple e-SIMs on the same device and have multiple cellular plans and phone numbers on the same phone. It also prevents others from removing the physical SIM card if your iPhone is lost or stolen. Apple said all US models of the iPhone will no longer have the SIM tray.
+
+The iPhone 14 and iPhone 14 Pro will come in five colors: midnight, starlight, blue, purple and red.
+
+New Apple Watches
+
+Apple unveiled three new smartwatches at the event: the Series 8, the SE and the Ultra.
+
+At the high end, the Ultra model is designed to help users track endurance training, scuba diving adventures and triathlons. The device gets about 36 hours on a single charge, is more water resistant and boasts an enhanced compass that can work at night, in the ocean and other conditions.
+
+At the low end, Apple updated the SE to be up to 20% faster than the prior version. It starts at $249 for GPS models and $299 for cellular models.
+
+Apple Watch Series 8. Apple
+
+And in the middle is the Series 8 model, which starts at $399. Like prior versions of Apple’s smartwatch, the Series 8 is intended to motivate users to stay active and fit. Apple also emphasized the Watch’s features for women’s health, with revamped period cycle tracking tools that can predict ovulation. The tracking data is kept on each device and only accessible through a passcode or face ID, according to the company. Apple does not have a key to encrypted data and so it cannot access it without your express permission.
+
+The announcement comes as data security for women has become a major flashpoint in the wake of the Supreme Court decision to overturn Roe v. Wade.
+
+New AirPods Pro 2
+
+Apple showed off its latest generation of AirPods Pro, one of its bigger breakout products of recent years. The new AirPods Pro will have six hours of listening time with a single charge, better than the original version. Each headphone and the case itself are now equipped to make a noise to help you find it. And a light swipe up and down the headphone will increase or decrease volume.
+
+The new AirPods Pro. Apple
+
+AirPods Pro now comes with improved dynamic noise-cancellation technology, and can cancel out double the amount of noise compared to the original version. Meanwhile, a new adaptive transparency mode aims to reduce harsh environmental noise.
+
+The AirPods Pro 2 cost $249 and hit stores on Friday.
+
+Satellite connectivity for emergency situations
+
+While Apple did not unveil any groundbreaking new hardware products, at least one new feature could prove to be a game changer for customers — albeit in rare situations.
+
+The new Emergency SOS via Satellite feature, which Apple said has been in the works for years, was designed and built specifically for iPhone 14 devices to connect to satellites when not near a terrestrial tower. By allowing users to point their device toward a satellite, which the phone will help locate, users will be able to send and receive information to get emergency help.
+
+The company said it created a short text compression mechanism to condense messages that take about 15 seconds to send if a user has a clear view of the sky. (It may take a few minutes longer if something like foliage is in the way.)
+
+Apple said local providers will be alerted to help call for help.New York CNN Business —
+
+General Motors revealed a new electric SUV Thursday that the automaker expects will be the cheapest compact electric SUV on the market when it goes into product in about a year. The Chevrolet Equinox EV will have a starting price around $30,000 which, at any rate, will make it among the cheapest electric vehicles of any sort.
+
+The average electric vehicle available today has a base sticker price of about $47,500, according to Edmunds.com. The $30,000 price for the Equinox EV would be, of course, for the simplest version with no optional features. That price does not include tax credits but GM is not currently eligible for any electric vehicle tax credits, anyway, and it’s uncertain if any GM vehicles will be eligible under new rules, either.
+
+Among 2022 model year mass-market EVs, only the Nissan Leaf, with its base price $28,500, costs less and it also currently qualifies for a $7,500 federal tax credit. There are a few other models in the low- to mid-$30,000 price range, too. Among them are Chevrolet’s own Bolt EV and the SUV-ish Bolt EUV.
+
+Despite having the same name, the Equinox EV shares very little with the gasoline-powered small SUV that is Chevrolet’s second-best-selling model after the Silverado pickup. GM took the same approach with the Chevrolet Silverado EV pickup and the Chevrolet Blazer EV SUV, both of which were unveiled earlier this year. They share only their names and their basic size and form with gas models. All three, along wth GM’s GMC Hummer EV truck and Cadillac’s Lyriq SUV are designed around the same electric vehicle battery pack design and structure.
+
+The Equinox EV is almost three inches wider than the gas model and slightly shorter, as measured from the roof to the ground. Unlike some electric vehicles, it has no front trunk. Instead the area under the hood holds electronics equipment and the front electric motor. GM (GM) designers and engineers decided to save the cost and complexity of trying to create a space under the hood and spend vehicle development time and money, instead, on creating a better experience inside the cabin, said Scott Bell, GM (GM)’s vice president for Chevrolet.
+
+The Equinox EV will be available with two-tone paint jobs, something that’s been an industry trend for several years. Customers getting the sportier-looking RT models will be able to get a black roof with a differently colored body while those getting the standard LT models will be able to choose a contrasting white roof.
+
+The cheapest version will be the so-called Blazer 1LT with a single 210 horsepower engine powering only the front wheels. It will have total driving range on a full charge of about 250 miles. Equinox EV 1LT SUVs will also be available with more driving range — up to 300 miles — and with all-wheel-drive and a driving range up to an estimated 280 miles, but those versions will, presumably, cost more. All-wheel-drive versions will be able to get as much as 290 horsepower from two electric motors.
+
+Better-equipped versions, the 2LT and sportier-looking RS, will have either the 300-mile range or all-wheel-drive with up to 280 miles of range. Unlike the more expensive Blazer EV, the Equinox EV will be available only with all- or front-wheel-drive. There will not be a rear-wheel-drive option.Washington, DC CNN —
+
+The Tesla Model Y received the highest grade of any vehicle in a European safety test that ranked driver-assist systems like the automaker’s controversial Autopilot system.
+
+The 2022 Model Y’s 98% score in the “safety assist” category, which evaluated safety technologies like lane-keeping and automatic emergency braking, beat out vehicles from automakers like Mercedes-Benz, Volvo, Lexus and Volkswagen.
+
+Overall, the Model Y received a five-star ranking in the European tests, called Euro NCAP, which stands for “new car assessment program.” A five-star score indicates that a vehicle has excellent performance in crash protection and robust crash avoidance tech.
+
+The Model Y received the highest marks of any tested vehicle in two of four test categories, and the second highest score in a third category — vulnerable road users, which focuses on pedestrian and cyclist interactions.
+
+Tesla’s other vehicles were not tested, but its new models have the same standard driver-assist technology as the Model Y. In 2019, a Tesla Model 3 received an overall five-star score.
+
+Tesla’s European version of Autopilot has more limitations than the US version. For example, the Smart Summon function, in which the car slowly drives to meet its owner, is limited to 20 feet rather than 213 feet. Tesla also has not yet announced a release of the beta version of “full self-driving” in Europe.
+
+Tesla’s driver-assist technologies, called Autopilot and “full self-driving,” have long pushed boundaries of what car technology is capable of. Many drivers say they feel less fatigued after using Autopilot’s automatic steering function on long highway drives. But the system’s safety record has been questioned, including concerns about if the automaker does enough to keep drivers engaged and attentive. The National Transportation Safety Board has called for Tesla to improve its driver-assist technologies following several headline-grabbing fatal crashes. Research has found that drivers are more distracted when they use Autopilot.
+
+Tesla began to use a cabin camera in 2021 inside its newer vehicles to monitor driver engagement after competitors, like General Motors and Ford, included them.
+
+The National Highway Traffic Safety Administration is investigating cases in which Tesla vehicles using Autopilot have rear-ended emergency vehicles stopped on roadways. It expanded its investigation this summer, which could lead to a recall. It’s also examining multiple fatal crashes this summer of vehicles with Autopilot striking and killing motorcyclists. The crashes have raised questions about if the Tesla cabin camera can adequately detect distracted drivers at night when visibility in the vehicle may be more difficult. Some competitors like Ford and General Motors use infrared technology instead, which may be better suited evening conditions.
+
+Tesla did not immediately respond to a request for comment and generally does not engage with the professional news media.
+
+Recently, a video of Teslas equipped with what the company calls “full self-driving” running over a child mannequin led to Tesla supporters conducting tests with their own children to evaluate the vehicles’ safety.
+
+Euro NCAP concluded that the Model Y’s automatic emergency braking system “performed well” in its response to pedestrians. The tests include scenarios like a child running from behind parked vehicles and a pedestrian crossing a road into which a car is turning. Tesla received a score of 7.7 out of 9 points on the emergency braking near pedestrians.
+
+Euro NCAP also noted that the Tesla system uses a camera-based system to monitor for distracted drivers and automatically changes the sensitivity of its forward collision warning system to be more reactive.
+
+Euro NCAP’s testing protocol for driver-assist technology does not say if it evaluates systems during nighttime conditions.
+
+It did not immediately respond to a request for comment.New York CNN —
+
+Roku held approximately $487 million of its $1.9 billion in cash at Silicon Valley Bank, which collapsed Friday and was taken over by the Federal Deposit Insurance Corporation, the streaming technology company disclosed in an SEC filing.
+
+That’s approximately 26% of the company’s cash and cash equivalents, Roku (ROKU) said, adding that most of its deposits with the bank are uninsured.
+
+“The company’s deposits with SVB are largely uninsured,” Roku said. “At this time, the company does not know to what extent the company will be able to recover its cash on deposit at SVB.”
+
+However, Roku said it has enough existing cash and cash flow from operations to “meet its working capital, capital expenditures, and material cash requirements from known contractual obligations for the next twelve months and beyond.”
+
+SVB collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a financial institution in US history.
+
+California regulators closed down the tech lender and put it under the control of the FDIC.
+
+The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+Other companies face fallout
+
+Roblox also said in a filing that 5% of its $3 billion in cash was held at SVB. The video game company said the collapse will not affect its day-to-day operations.
+
+Crytpo lender BlockFi, which filed for bankruptcy in November, disclosed it held $227 million with SVB in a bankruptcy filing Friday. BlockFi said in November it had halted withdrawals after facing “significant exposure” to Sam Bankman-Fried’s FTX exchange, as well as its sister hedge fund Alameda.
+
+BlockFi’s money in SVB is not FDIC-insured because it was in a money market mutual fund, the company learned from its bankruptcy trustee early this week.
+
+And aerospace manufacturer Rocket Lab held almost 8%, or approximately $38 million, of its total cash at the collapsed bank, it said in a Friday filing.New York CNN —
+
+Silicon Valley Bank collapsed Friday morning after a stunning 48 hours in which a bank run and a capital crisis led to the second-largest failure of a financial institution in US history.
+
+California regulators closed down the tech lender and put it under the control of the US Federal Deposit Insurance Corporation. The FDIC is acting as a receiver, which typically means it will liquidate the bank’s assets to pay back its customers, including depositors and creditors.
+
+The FDIC, an independent government agency that insures bank deposits and oversees financial institutions, said all insured depositors will have full access to their insured deposits by no later than Monday morning. It said it would pay uninsured depositors an “advance dividend within the next week.”
+
+The bank, previously owned by SVB Financial Group, didn’t respond to CNN’s request for comment.
+
+What happened?
+
+The wheels started to come off on Wednesday, when SBV announced it had sold a bunch of securities at a loss and that it would sell $2.25 billion in new shares to shore up its balance sheet. That triggered a panic among key venture capital firms, who reportedly advised companies to withdraw their money from the bank.
+
+The company’s stock cratered on Thursday, dragging other banks down with it. By Friday morning, SBV’s shares were halted and it had abandoned efforts to quickly raise capital or find a buyer. Several other bank stocks were temporarily halted Friday, including First Republic, PacWest Bancorp, and Signature Bank.
+
+The mid-morning timing of the FDIC’s takeover was noteworthy, as the agency typically waits until the market has closed to intervene.
+
+“SVB’s condition deteriorated so quickly that it couldn’t last just five more hours,” wrote Better Markets CEO Dennis M. Kelleher. “That’s because its depositors were withdrawing their money so fast that the bank was insolvent, and an intraday closure was unavoidable due to a classic bank run.”
+
+Silicon Valley Bank’s decline stems partly from the Federal Reserve’s aggressive interest rate hikes over the past year.
+
+When interest rates were near zero, banks loaded up on long-dated, seemingly low-risk Treasuries. But as the Fed raises interest rates to fight inflation, the value of those assets has fallen, leaving banks sitting on unrealized losses.
+
+Higher rates hit tech especially hard, undercutting the value of tech stocks and making it tough to raise funds, Moody’s chief economist Mark Zandi said. That prompted many tech firms to draw down the deposits they held at SVB to fund their operations.
+
+“Higher rates have also lowered the value of their treasury and other securities which SVB needed to pay depositors,” Zandi said. ” All of this set off the run on their deposits that forced the FDIC to takeover SVB.”
+
+Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+Adeyemo said US officials are “learning more information” about the collapse of Silicon Valley Bank. He argued the Dodd-Frank financial reform overhaul, signed into law in 2010, has given regulators the tools they need to address this and improved the capitalization of banks.
+
+Adeyemo declined to predict what, if any, impact there will be to the broader economy or the tech industry.
+
+Echoes of 2008
+
+Despite initial panic on Wall Street over the run on SVB, which caused its shares to crater, analysts said the bank’s collapse is unlikely to set off the kind of domino effect that gripped the banking industry during the financial crisis.
+
+“The system is as well-capitalized and liquid as it has ever been,” Zandi said. “The banks that are now in trouble are much too small to be a meaningful threat to the broader system.”
+
+But smaller banks that are disproportionately tied to cash-strapped industries like tech and crypto may be in for a rough ride, according to Ed Moya, senior market analyst at Oanda.
+
+“Everyone on Wall Street knew that the Fed’s rate-hiking campaign would eventually break something, and right now that is taking down small banks,” Moya said.
+
+‘Idiosyncratic situation’
+
+While relatively unknown outside of Silicon Valley, SVB was among the top 20 American commercial banks, with $209 billion in total assets at the end of last year, according to the FDIC.
+
+It’s the largest lender to fail since Washington Mutual collapsed in 2008.
+
+The bank partnered with nearly half of all venture-backed tech and health care companies in the United States, many of which pulled deposits out of the bank.
+
+Mike Mayo, Wells Fargo senior bank analyst, said the crisis at SVB may be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterly on Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Rate hikes take a bite
+
+SVB’s sudden fall mirrored other risky bets that have been exposed in the past year’s market turmoil.
+
+Crypto-focused lender Silvergate said Wednesday it is winding down operations and will liquidate the bank after being financially pummeled by turmoil in digital assets. Signature Bank, another lender, was hit hard by the bank selloff, with shares sinking 30% before being halted for volatility Friday.
+
+“SVB’s institutional challenges reflect a larger and more widespread systemic issue: The banking industry is sitting on a ton of low-yielding assets that, thanks to the last year of rate increases, are now far underwater — and sinking,” wrote Konrad Alt, co-founder of Klaros Group.
+
+Alt estimated that rate increases have “effectively wiped out approximately 28% of all the capital in the banking industry as of the end of 2022.”London CNN —
+
+The failure of Silicon Valley Bank is rattling markets and raising uncomfortable questions: Will it undermine the broader banking system and start a new meltdown?
+
+Billionaire hedge fund manager Bill Ackman has compared SVB to Bear Stearns, the first lender to collapse at the start of the 2007-2008 global financial crisis.
+
+“The risk of failure and deposit losses here is that the next, least well-capitalized bank faces a run and fails, and the dominoes continue to fall,” Ackman wrote on Twitter.
+
+Yet most analysts say the implosion of SVB appears company-specific for now. A crucial lender to US technology startups, the bank came under pressure as Silicon Valley funding dried up, the result of an economic slowdown and rapidly rising interest rates.
+
+“The reason [SVB is] in trouble is because they have exposure to particular industries,” said Jonas Goltermann, deputy chief markets economist at Capital Economics. Most other banks, he added, are more “diversified.”
+
+And Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+There’s also less anxiety about the stability of the banking sector due to the significant regulatory reforms put in place after the crisis in 2008.
+
+Still, SVB’s collapse reveals stresses created by the fastest jump in borrowing costs in decades. Central banks have raised interest rates to tame high inflation, but the pace of the increases has thrown up unexpected problems. And worries persist about further unintended consequences.
+
+For example, banks that scooped up US Treasuries and other bonds when interest rates were very low are now sitting on losses as borrowing costs have risen and bond prices have gone down.
+
+Bank stocks rattled
+
+Founded in 1983, SVB provided financing for almost half of US venture-backed technology and health care companies. Its problems came to light this week when it revealed that it was in dire need of funds. The company shared plans Wednesday to raise more than $2 billion from investors to fill a hole in its finances created by the sale of part of its hard-hit bond portfolio.
+
+SVB put the bonds up for sale as customers, facing leaner times, pulled their money from the bank. Shares of SVB plunged 60% on Thursday. Trading in the stock was halted Friday amid reports that the bank, unable to raise all the money it needed, was hunting for a buyer.
+
+Then California’s regulators intervened, shutting the bank down and calling in the US Federal Deposit Insurance Corporation to act as receiver. Silicon Valley Bank had about $209 billion in total assets and $175 billion in total deposits as of the end of last year, according to the FDIC.
+
+In a sign concerns are spilling into other parts of the banking sector, shares of other lenders have been falling, too. JPMorgan Chase (JPM), Bank of America (BAC), Wells Fargo (WFC) and Citigroup (C) all suffered drops of between 4% and 7% Thursday.
+
+While their shares stabilized on Friday, smaller banks continued to suffer. An exchange-traded fund tracking regional banks, the SPDR S&P Regional Banking ETF, was down more than 6%. Banks in Europe were also hit.
+
+What happens next?
+
+Other lenders with highly specialized clientele could come under pressure. Crypto-focused lender Silvergate said Wednesday that it was winding down operations after recent turmoil in digital assets pummeled its finances.
+
+But the risks of broader contagion are thought to be limited for now.
+
+“Overall, the banking system is in good shape and able to withstand significant shocks,” said Jens Hagendorff, a finance professor at King’s College London. “I think SVB is special in the sense that they have a fickle depositor base.”
+
+Mike Mayo, senior bank analyst at Wells Fargo, said the crisis at SVB might be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterley Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Similarly, former US Treasury Secretary Larry Summers told Bloomberg News Friday that he saw “no systemic risk” if the situation “is handled reasonably,” adding he had “every reason to think that it will be.”
+
+Yet the tumult reveals the bind banks could find themselves in as economic and market conditions change rapidly.
+
+SVB’s downfall was tied, in part, to the plunge in the value of bonds it bought up during boom times, when it had a lot of customer deposits coming in and needed somewhere to park the cash.
+
+The rise in interest rates has made low-yielding assets like bonds worth a lot less. That caused problems when the bank needed to raise funds quickly.
+
+“[Falling bond prices are] only really a problem in a situation where your balance sheet is sinking quite quickly… [and you] have to sell assets that you wouldn’t ordinarily have to sell,” said Luc Plouvier, senior portfolio manager at Van Lanschot Kempen, a Dutch wealth management firm.
+
+SVB may not be the only institution that needs to tackle this issue.
+
+“Many institutions — from central banks, commercial banks and pension funds — sit on assets that are worth significantly less than reported in their financial statements,” Hagendorff said. “The resulting losses will be large and need to be financed somehow. The scale of the problem is starting to cause concern.”
+
+— Allison Morrow, Nicole Goodkind and Matt Egan contributed reporting.London CNN —
+
+The failure of Silicon Valley Bank is rattling markets and raising uncomfortable questions: Will it undermine the broader banking system and start a new meltdown?
+
+Billionaire hedge fund manager Bill Ackman has compared SVB to Bear Stearns, the first lender to collapse at the start of the 2007-2008 global financial crisis.
+
+“The risk of failure and deposit losses here is that the next, least well-capitalized bank faces a run and fails, and the dominoes continue to fall,” Ackman wrote on Twitter.
+
+Yet most analysts say the implosion of SVB appears company-specific for now. A crucial lender to US technology startups, the bank came under pressure as Silicon Valley funding dried up, the result of an economic slowdown and rapidly rising interest rates.
+
+“The reason [SVB is] in trouble is because they have exposure to particular industries,” said Jonas Goltermann, deputy chief markets economist at Capital Economics. Most other banks, he added, are more “diversified.”
+
+And Deputy Treasury Secretary Wally Adeyemo on Friday sought to reassure the public about the health of the banking system after the sudden collapse of SVB.
+
+“Federal regulators are paying attention to this particular financial institution and when we think about the broader financial system, we’re very confident in the ability and the resilience of the system,” Adeyemo told CNN in an exclusive interview.
+
+The comments come after Treasury Secretary Janet Yellen convened an unscheduled meeting of financial regulators to discuss the implosion of Silicon Valley Bank, a major lender to the hurting tech sector.
+
+“We have the tools that are necessary to [deal with] incidents like what’s happened to Silicon Valley Bank,” Adeyemo said.
+
+There’s also less anxiety about the stability of the banking sector due to the significant regulatory reforms put in place after the crisis in 2008.
+
+Still, SVB’s collapse reveals stresses created by the fastest jump in borrowing costs in decades. Central banks have raised interest rates to tame high inflation, but the pace of the increases has thrown up unexpected problems. And worries persist about further unintended consequences.
+
+For example, banks that scooped up US Treasuries and other bonds when interest rates were very low are now sitting on losses as borrowing costs have risen and bond prices have gone down.
+
+Bank stocks rattled
+
+Founded in 1983, SVB provided financing for almost half of US venture-backed technology and health care companies. Its problems came to light this week when it revealed that it was in dire need of funds. The company shared plans Wednesday to raise more than $2 billion from investors to fill a hole in its finances created by the sale of part of its hard-hit bond portfolio.
+
+SVB put the bonds up for sale as customers, facing leaner times, pulled their money from the bank. Shares of SVB plunged 60% on Thursday. Trading in the stock was halted Friday amid reports that the bank, unable to raise all the money it needed, was hunting for a buyer.
+
+Then California’s regulators intervened, shutting the bank down and calling in the US Federal Deposit Insurance Corporation to act as receiver. Silicon Valley Bank had about $209 billion in total assets and $175 billion in total deposits as of the end of last year, according to the FDIC.
+
+In a sign concerns are spilling into other parts of the banking sector, shares of other lenders have been falling, too. JPMorgan Chase (JPM), Bank of America (BAC), Wells Fargo (WFC) and Citigroup (C) all suffered drops of between 4% and 7% Thursday.
+
+While their shares stabilized on Friday, smaller banks continued to suffer. An exchange-traded fund tracking regional banks, the SPDR S&P Regional Banking ETF, was down more than 6%. Banks in Europe were also hit.
+
+What happens next?
+
+Other lenders with highly specialized clientele could come under pressure. Crypto-focused lender Silvergate said Wednesday that it was winding down operations after recent turmoil in digital assets pummeled its finances.
+
+But the risks of broader contagion are thought to be limited for now.
+
+“Overall, the banking system is in good shape and able to withstand significant shocks,” said Jens Hagendorff, a finance professor at King’s College London. “I think SVB is special in the sense that they have a fickle depositor base.”
+
+Mike Mayo, senior bank analyst at Wells Fargo, said the crisis at SVB might be “an idiosyncratic situation.”
+
+“This is night and day versus the global financial crisis from 15 years ago,” he told CNN’s Julia Chatterley Friday. Back then, he said, “banks were taking excessive risks, and people thought everything was fine. Now everyone’s concerned, but underneath the surface the banks are more resilient than they’ve been in a generation.”
+
+Similarly, former US Treasury Secretary Larry Summers told Bloomberg News Friday that he saw “no systemic risk” if the situation “is handled reasonably,” adding he had “every reason to think that it will be.”
+
+Yet the tumult reveals the bind banks could find themselves in as economic and market conditions change rapidly.
+
+SVB’s downfall was tied, in part, to the plunge in the value of bonds it bought up during boom times, when it had a lot of customer deposits coming in and needed somewhere to park the cash.
+
+The rise in interest rates has made low-yielding assets like bonds worth a lot less. That caused problems when the bank needed to raise funds quickly.
+
+“[Falling bond prices are] only really a problem in a situation where your balance sheet is sinking quite quickly… [and you] have to sell assets that you wouldn’t ordinarily have to sell,” said Luc Plouvier, senior portfolio manager at Van Lanschot Kempen, a Dutch wealth management firm.
+
+SVB may not be the only institution that needs to tackle this issue.
+
+“Many institutions — from central banks, commercial banks and pension funds — sit on assets that are worth significantly less than reported in their financial statements,” Hagendorff said. “The resulting losses will be large and need to be financed somehow. The scale of the problem is starting to cause concern.”
+
+— Allison Morrow, Nicole Goodkind and Matt Egan contributed reporting.New York CNN —
+
+A toy company based in New York has gotten caught up in the collapse of Silicon Valley Bank and is pleading with customers for help keeping it afloat.
+
+Camp, a venture-backed retailer, sent an email to customers Friday announcing it was slashing prices and would use sales to help fund its continued operations after much of its money was tied up in the bank failure.
+
+“Unfortunately, we had most of our company’s cash assets at a bank which just collapsed. I’m sure you’ve heard the news,” co-founder Ben Kaufman said in an email to customers.
+
+He urged customers to use the code “BANKRUN” to save 40% off all merchandise, in an apparent nod to the run on the bank that may have helped bring down the Silicon Valley lender. Camp also said customers could pay full price, which it said would be appreciated.
+
+Kaufman said the company was “hopeful that this will be resolved soon.”
+
+CNN has not confirmed if Camp had funds with Silicon Valley Bank when the bank collapsed.
+
+Silicon Valley Bank was put under control of the US Federal Deposit Insurance Corporation on Friday, capping off a stunning 48 hour period during which fears of a liquidity crisis at the firm prompted some startups to weigh withdrawing funds.
+
+The sudden collapse of the Silicon Valley lender has pushed tech investors and startups to scramble to figure out their financial exposure to the bank, with founders worrying about getting their money out, making payroll and covering operating expenses.
+
+The rapidly unfolding fallout at Silicon Valley Bank comes at a challenging moment for startup and tech industries. Rising interest rates have eroded the easy access to capital that helped fuel soaring startup valuations and funded ambitious, money-losing projects.
+
+Kaufman, a former BuzzFeed executive, founded Camp in 2018. It has nine stores in California, Connecticut, Massachusetts, New York, New Jersey and Texas.
