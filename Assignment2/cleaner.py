@@ -1,6 +1,5 @@
 import re
 from zhon.hanzi import punctuation
-import collections
 
 with open('ChineseCorpus199801.txt', 'r', encoding='GBK') as fin:
     text = fin.read()
