@@ -1,0 +1,210 @@
+test sentence: 1
+BLEU-BP score: 1 (Baidu: 15 / total: 15)
+BLEU-1 score: 0.5333333333333333 (match: 8 / total: 15)
+BLEU-2 score: 0.21428571428571427 (match: 3 / total: 14)
+BLEU-3 score: 0.07692307692307693 (match: 1 / total: 13)
+BLEU-4 score: 0.008333333333333333 (match: 0 / total: 12)
+BLEU score: 0.0925159978069645
+test sentence: 2
+BLEU-BP score: 0.9131007162822624 (Baidu: 11 / total: 12)
+BLEU-1 score: 0.6363636363636364 (match: 7 / total: 11)
+BLEU-2 score: 0.5 (match: 5 / total: 10)
+BLEU-3 score: 0.3333333333333333 (match: 3 / total: 9)
+BLEU-4 score: 0.25 (match: 2 / total: 8)
+BLEU score: 0.3684615814266881
+test sentence: 3
+BLEU-BP score: 1 (Baidu: 12 / total: 9)
+BLEU-1 score: 0.5 (match: 6 / total: 12)
+BLEU-2 score: 0.36363636363636365 (match: 4 / total: 11)
+BLEU-3 score: 0.2 (match: 2 / total: 10)
+BLEU-4 score: 0.1111111111111111 (match: 1 / total: 9)
+BLEU score: 0.2521193618434983
+test sentence: 4
+BLEU-BP score: 0.8948393168143697 (Baidu: 9 / total: 10)
+BLEU-1 score: 0.7777777777777778 (match: 7 / total: 9)
+BLEU-2 score: 0.5 (match: 4 / total: 8)
+BLEU-3 score: 0.2857142857142857 (match: 2 / total: 7)
+BLEU-4 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU score: 0.1856293387426249
+test sentence: 5
+BLEU-BP score: 1 (Baidu: 10 / total: 10)
+BLEU-1 score: 0.8 (match: 8 / total: 10)
+BLEU-2 score: 0.6666666666666666 (match: 6 / total: 9)
+BLEU-3 score: 0.5 (match: 4 / total: 8)
+BLEU-4 score: 0.42857142857142855 (match: 3 / total: 7)
+BLEU score: 0.5814307369682193
+test sentence: 6
+BLEU-BP score: 0.9428731438548749 (Baidu: 17 / total: 18)
+BLEU-1 score: 0.5882352941176471 (match: 10 / total: 17)
+BLEU-2 score: 0.3125 (match: 5 / total: 16)
+BLEU-3 score: 0.13333333333333333 (match: 2 / total: 15)
+BLEU-4 score: 0.07142857142857142 (match: 1 / total: 14)
+BLEU score: 0.19286624099885105
+test sentence: 7
+BLEU-BP score: 1 (Baidu: 24 / total: 19)
+BLEU-1 score: 0.4583333333333333 (match: 11 / total: 24)
+BLEU-2 score: 0.34782608695652173 (match: 8 / total: 23)
+BLEU-3 score: 0.22727272727272727 (match: 5 / total: 22)
+BLEU-4 score: 0.14285714285714285 (match: 3 / total: 21)
+BLEU score: 0.26822436109275993
+test sentence: 8
+BLEU-BP score: 1 (Baidu: 17 / total: 15)
+BLEU-1 score: 0.47058823529411764 (match: 8 / total: 17)
+BLEU-2 score: 0.1875 (match: 3 / total: 16)
+BLEU-3 score: 0.06666666666666667 (match: 1 / total: 15)
+BLEU-4 score: 0.0071428571428571435 (match: 0 / total: 14)
+BLEU score: 0.0805111000764593
+test sentence: 9
+BLEU-BP score: 0.9355069850316178 (Baidu: 15 / total: 16)
+BLEU-1 score: 0.8 (match: 12 / total: 15)
+BLEU-2 score: 0.6428571428571429 (match: 9 / total: 14)
+BLEU-3 score: 0.5384615384615384 (match: 7 / total: 13)
+BLEU-4 score: 0.4166666666666667 (match: 5 / total: 12)
+BLEU score: 0.5452353574508253
+test sentence: 10
+BLEU-BP score: 1 (Baidu: 15 / total: 13)
+BLEU-1 score: 0.6 (match: 9 / total: 15)
+BLEU-2 score: 0.42857142857142855 (match: 6 / total: 14)
+BLEU-3 score: 0.3076923076923077 (match: 4 / total: 13)
+BLEU-4 score: 0.25 (match: 3 / total: 12)
+BLEU score: 0.375022891676693
+test sentence: 11
+BLEU-BP score: 0.8824969025845955 (Baidu: 8 / total: 9)
+BLEU-1 score: 0.625 (match: 5 / total: 8)
+BLEU-2 score: 0.14285714285714285 (match: 1 / total: 7)
+BLEU-3 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU-4 score: 0.02 (match: 0 / total: 5)
+BLEU score: 0.06518210333288976
+test sentence: 12
+BLEU-BP score: 1 (Baidu: 29 / total: 25)
+BLEU-1 score: 0.6206896551724138 (match: 18 / total: 29)
+BLEU-2 score: 0.39285714285714285 (match: 11 / total: 28)
+BLEU-3 score: 0.2222222222222222 (match: 6 / total: 27)
+BLEU-4 score: 0.11538461538461539 (match: 3 / total: 26)
+BLEU score: 0.2811972949101874
+test sentence: 13
+BLEU-BP score: 0.9167169520254864 (Baidu: 23 / total: 25)
+BLEU-1 score: 0.7391304347826086 (match: 17 / total: 23)
+BLEU-2 score: 0.45454545454545453 (match: 10 / total: 22)
+BLEU-3 score: 0.2857142857142857 (match: 6 / total: 21)
+BLEU-4 score: 0.25 (match: 5 / total: 20)
+BLEU score: 0.36080940927847505
+test sentence: 14
+BLEU-BP score: 1 (Baidu: 9 / total: 8)
+BLEU-1 score: 0.7777777777777778 (match: 7 / total: 9)
+BLEU-2 score: 0.625 (match: 5 / total: 8)
+BLEU-3 score: 0.42857142857142855 (match: 3 / total: 7)
+BLEU-4 score: 0.3333333333333333 (match: 2 / total: 6)
+BLEU score: 0.5133450480401704
+test sentence: 15
+BLEU-BP score: 1 (Baidu: 23 / total: 23)
+BLEU-1 score: 0.6956521739130435 (match: 16 / total: 23)
+BLEU-2 score: 0.4090909090909091 (match: 9 / total: 22)
+BLEU-3 score: 0.14285714285714285 (match: 3 / total: 21)
+BLEU-4 score: 0.05 (match: 1 / total: 20)
+BLEU score: 0.21233470585998818
+test sentence: 16
+BLEU-BP score: 0.9200444146293233 (Baidu: 12 / total: 13)
+BLEU-1 score: 0.6666666666666666 (match: 8 / total: 12)
+BLEU-2 score: 0.5454545454545454 (match: 6 / total: 11)
+BLEU-3 score: 0.5 (match: 5 / total: 10)
+BLEU-4 score: 0.4444444444444444 (match: 4 / total: 9)
+BLEU score: 0.4905378138718247
+test sentence: 17
+BLEU-BP score: 0.9240885594051769 (Baidu: 38 / total: 41)
+BLEU-1 score: 0.6578947368421053 (match: 25 / total: 38)
+BLEU-2 score: 0.2702702702702703 (match: 10 / total: 37)
+BLEU-3 score: 0.1111111111111111 (match: 4 / total: 36)
+BLEU-4 score: 0.02857142857142857 (match: 1 / total: 35)
+BLEU score: 0.14243759332816894
+test sentence: 18
+BLEU-BP score: 1 (Baidu: 8 / total: 7)
+BLEU-1 score: 0.375 (match: 3 / total: 8)
+BLEU-2 score: 0.014285714285714287 (match: 0 / total: 7)
+BLEU-3 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU-4 score: 0.02 (match: 0 / total: 5)
+BLEU score: 0.03655552228545124
+test sentence: 19
+BLEU-BP score: 1 (Baidu: 15 / total: 15)
+BLEU-1 score: 0.8 (match: 12 / total: 15)
+BLEU-2 score: 0.6428571428571429 (match: 9 / total: 14)
+BLEU-3 score: 0.5384615384615384 (match: 7 / total: 13)
+BLEU-4 score: 0.4166666666666667 (match: 5 / total: 12)
+BLEU score: 0.5828233954152654
+test sentence: 20
+BLEU-BP score: 1 (Baidu: 33 / total: 23)
+BLEU-1 score: 0.42424242424242425 (match: 14 / total: 33)
+BLEU-2 score: 0.1875 (match: 6 / total: 32)
+BLEU-3 score: 0.06451612903225806 (match: 2 / total: 31)
+BLEU-4 score: 0.0033333333333333335 (match: 0 / total: 30)
+BLEU score: 0.0643117909191598
+test sentence: 21
+BLEU-BP score: 1 (Baidu: 12 / total: 8)
+BLEU-1 score: 0.3333333333333333 (match: 4 / total: 12)
+BLEU-2 score: 0.009090909090909092 (match: 0 / total: 11)
+BLEU-3 score: 0.01 (match: 0 / total: 10)
+BLEU-4 score: 0.011111111111111112 (match: 0 / total: 9)
+BLEU score: 0.024088562704853513
+test sentence: 22
+BLEU-BP score: 1 (Baidu: 20 / total: 17)
+BLEU-1 score: 0.45 (match: 9 / total: 20)
+BLEU-2 score: 0.15789473684210525 (match: 3 / total: 19)
+BLEU-3 score: 0.05555555555555555 (match: 1 / total: 18)
+BLEU-4 score: 0.0058823529411764705 (match: 0 / total: 17)
+BLEU score: 0.06941681530093603
+test sentence: 23
+BLEU-BP score: 0.9649159443723699 (Baidu: 28 / total: 29)
+BLEU-1 score: 0.5 (match: 14 / total: 28)
+BLEU-2 score: 0.2962962962962963 (match: 8 / total: 27)
+BLEU-3 score: 0.15384615384615385 (match: 4 / total: 26)
+BLEU-4 score: 0.08 (match: 2 / total: 25)
+BLEU score: 0.1993919851218617
+test sentence: 24
+BLEU-BP score: 1 (Baidu: 49 / total: 31)
+BLEU-1 score: 0.5102040816326531 (match: 25 / total: 49)
+BLEU-2 score: 0.3541666666666667 (match: 17 / total: 48)
+BLEU-3 score: 0.23404255319148937 (match: 11 / total: 47)
+BLEU-4 score: 0.13043478260869565 (match: 6 / total: 46)
+BLEU score: 0.2725272692981452
+test sentence: 25
+BLEU-BP score: 1 (Baidu: 25 / total: 23)
+BLEU-1 score: 0.56 (match: 14 / total: 25)
+BLEU-2 score: 0.20833333333333334 (match: 5 / total: 24)
+BLEU-3 score: 0.043478260869565216 (match: 1 / total: 23)
+BLEU-4 score: 0.004545454545454546 (match: 0 / total: 22)
+BLEU score: 0.0692945483088954
+test sentence: 26
+BLEU-BP score: 1 (Baidu: 7 / total: 7)
+BLEU-1 score: 0.42857142857142855 (match: 3 / total: 7)
+BLEU-2 score: 0.16666666666666666 (match: 1 / total: 6)
+BLEU-3 score: 0.02 (match: 0 / total: 5)
+BLEU-4 score: 0.025 (match: 0 / total: 4)
+BLEU score: 0.07730551756939454
+test sentence: 27
+BLEU-BP score: 1 (Baidu: 34 / total: 33)
+BLEU-1 score: 0.3235294117647059 (match: 11 / total: 34)
+BLEU-2 score: 0.09090909090909091 (match: 3 / total: 33)
+BLEU-3 score: 0.03125 (match: 1 / total: 32)
+BLEU-4 score: 0.0032258064516129032 (match: 0 / total: 31)
+BLEU score: 0.041495629056849774
+test sentence: 28
+BLEU-BP score: 1 (Baidu: 36 / total: 25)
+BLEU-1 score: 0.4722222222222222 (match: 17 / total: 36)
+BLEU-2 score: 0.3142857142857143 (match: 11 / total: 35)
+BLEU-3 score: 0.20588235294117646 (match: 7 / total: 34)
+BLEU-4 score: 0.12121212121212122 (match: 4 / total: 33)
+BLEU score: 0.24669426816409512
+test sentence: 29
+BLEU-BP score: 0.7939226578179512 (Baidu: 13 / total: 16)
+BLEU-1 score: 0.38461538461538464 (match: 5 / total: 13)
+BLEU-2 score: 0.08333333333333333 (match: 1 / total: 12)
+BLEU-3 score: 0.009090909090909092 (match: 0 / total: 11)
+BLEU-4 score: 0.01 (match: 0 / total: 10)
+BLEU score: 0.03280132420123097
+test sentence: 30
+BLEU-BP score: 0.583645478143574 (Baidu: 13 / total: 20)
+BLEU-1 score: 0.3076923076923077 (match: 4 / total: 13)
+BLEU-2 score: 0.008333333333333333 (match: 0 / total: 12)
+BLEU-3 score: 0.009090909090909092 (match: 0 / total: 11)
+BLEU-4 score: 0.01 (match: 0 / total: 10)
+BLEU score: 0.012824333460232474

@@ -1,0 +1,210 @@
+test sentence: 1
+BLEU-BP score: 1 (ChatGPT: 15 / total: 15)
+BLEU-1 score: 0.4 (match: 6 / total: 15)
+BLEU-2 score: 0.07142857142857142 (match: 1 / total: 14)
+BLEU-3 score: 0.007692307692307693 (match: 0 / total: 13)
+BLEU-4 score: 0.008333333333333333 (match: 0 / total: 12)
+BLEU score: 0.03678763249927775
+test sentence: 2
+BLEU-BP score: 1 (ChatGPT: 15 / total: 12)
+BLEU-1 score: 0.6 (match: 9 / total: 15)
+BLEU-2 score: 0.42857142857142855 (match: 6 / total: 14)
+BLEU-3 score: 0.3076923076923077 (match: 4 / total: 13)
+BLEU-4 score: 0.16666666666666666 (match: 2 / total: 12)
+BLEU score: 0.33887143631861766
+test sentence: 3
+BLEU-BP score: 1 (ChatGPT: 11 / total: 9)
+BLEU-1 score: 0.45454545454545453 (match: 5 / total: 11)
+BLEU-2 score: 0.3 (match: 3 / total: 10)
+BLEU-3 score: 0.2222222222222222 (match: 2 / total: 9)
+BLEU-4 score: 0.125 (match: 1 / total: 8)
+BLEU score: 0.24808415001701817
+test sentence: 4
+BLEU-BP score: 1 (ChatGPT: 11 / total: 10)
+BLEU-1 score: 0.8181818181818182 (match: 9 / total: 11)
+BLEU-2 score: 0.7 (match: 7 / total: 10)
+BLEU-3 score: 0.5555555555555556 (match: 5 / total: 9)
+BLEU-4 score: 0.375 (match: 3 / total: 8)
+BLEU score: 0.587728372510532
+test sentence: 5
+BLEU-BP score: 1 (ChatGPT: 12 / total: 10)
+BLEU-1 score: 0.5833333333333334 (match: 7 / total: 12)
+BLEU-2 score: 0.45454545454545453 (match: 5 / total: 11)
+BLEU-3 score: 0.3 (match: 3 / total: 10)
+BLEU-4 score: 0.2222222222222222 (match: 2 / total: 9)
+BLEU score: 0.3646285861936466
+test sentence: 6
+BLEU-BP score: 0.9428731438548749 (ChatGPT: 17 / total: 18)
+BLEU-1 score: 0.5882352941176471 (match: 10 / total: 17)
+BLEU-2 score: 0.3125 (match: 5 / total: 16)
+BLEU-3 score: 0.13333333333333333 (match: 2 / total: 15)
+BLEU-4 score: 0.07142857142857142 (match: 1 / total: 14)
+BLEU score: 0.19286624099885105
+test sentence: 7
+BLEU-BP score: 1 (ChatGPT: 19 / total: 19)
+BLEU-1 score: 0.5789473684210527 (match: 11 / total: 19)
+BLEU-2 score: 0.3888888888888889 (match: 7 / total: 18)
+BLEU-3 score: 0.29411764705882354 (match: 5 / total: 17)
+BLEU-4 score: 0.1875 (match: 3 / total: 16)
+BLEU score: 0.33380800216772966
+test sentence: 8
+BLEU-BP score: 1 (ChatGPT: 16 / total: 15)
+BLEU-1 score: 0.5 (match: 8 / total: 16)
+BLEU-2 score: 0.2 (match: 3 / total: 15)
+BLEU-3 score: 0.07142857142857142 (match: 1 / total: 14)
+BLEU-4 score: 0.007692307692307693 (match: 0 / total: 13)
+BLEU score: 0.08609583710384038
+test sentence: 9
+BLEU-BP score: 0.9355069850316178 (ChatGPT: 15 / total: 16)
+BLEU-1 score: 0.6666666666666666 (match: 10 / total: 15)
+BLEU-2 score: 0.42857142857142855 (match: 6 / total: 14)
+BLEU-3 score: 0.23076923076923078 (match: 3 / total: 13)
+BLEU-4 score: 0.16666666666666666 (match: 2 / total: 12)
+BLEU score: 0.302891221374327
+test sentence: 10
+BLEU-BP score: 1 (ChatGPT: 14 / total: 13)
+BLEU-1 score: 0.7142857142857143 (match: 10 / total: 14)
+BLEU-2 score: 0.46153846153846156 (match: 6 / total: 13)
+BLEU-3 score: 0.3333333333333333 (match: 4 / total: 12)
+BLEU-4 score: 0.2727272727272727 (match: 3 / total: 11)
+BLEU score: 0.4160751652217845
+test sentence: 11
+BLEU-BP score: 0.7514772930752859 (ChatGPT: 7 / total: 9)
+BLEU-1 score: 0.42857142857142855 (match: 3 / total: 7)
+BLEU-2 score: 0.16666666666666666 (match: 1 / total: 6)
+BLEU-3 score: 0.02 (match: 0 / total: 5)
+BLEU-4 score: 0.025 (match: 0 / total: 4)
+BLEU score: 0.05809334108283256
+test sentence: 12
+BLEU-BP score: 1 (ChatGPT: 27 / total: 25)
+BLEU-1 score: 0.6296296296296297 (match: 17 / total: 27)
+BLEU-2 score: 0.4230769230769231 (match: 11 / total: 26)
+BLEU-3 score: 0.24 (match: 6 / total: 25)
+BLEU-4 score: 0.125 (match: 3 / total: 24)
+BLEU score: 0.29898984447859595
+test sentence: 13
+BLEU-BP score: 0.9167169520254864 (ChatGPT: 23 / total: 25)
+BLEU-1 score: 0.7391304347826086 (match: 17 / total: 23)
+BLEU-2 score: 0.45454545454545453 (match: 10 / total: 22)
+BLEU-3 score: 0.2857142857142857 (match: 6 / total: 21)
+BLEU-4 score: 0.25 (match: 5 / total: 20)
+BLEU score: 0.36080940927847505
+test sentence: 14
+BLEU-BP score: 1 (ChatGPT: 9 / total: 8)
+BLEU-1 score: 0.5555555555555556 (match: 5 / total: 9)
+BLEU-2 score: 0.125 (match: 1 / total: 8)
+BLEU-3 score: 0.014285714285714287 (match: 0 / total: 7)
+BLEU-4 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU score: 0.06376715693797415
+test sentence: 15
+BLEU-BP score: 0.9555630362682843 (ChatGPT: 22 / total: 23)
+BLEU-1 score: 0.6363636363636364 (match: 14 / total: 22)
+BLEU-2 score: 0.2857142857142857 (match: 6 / total: 21)
+BLEU-3 score: 0.15 (match: 3 / total: 20)
+BLEU-4 score: 0.05263157894736842 (match: 1 / total: 19)
+BLEU score: 0.18599577705589648
+test sentence: 16
+BLEU-BP score: 1 (ChatGPT: 13 / total: 13)
+BLEU-1 score: 0.7692307692307693 (match: 10 / total: 13)
+BLEU-2 score: 0.6666666666666666 (match: 8 / total: 12)
+BLEU-3 score: 0.5454545454545454 (match: 6 / total: 11)
+BLEU-4 score: 0.4 (match: 4 / total: 10)
+BLEU score: 0.5783569866465142
+test sentence: 17
+BLEU-BP score: 0.8139288269830024 (ChatGPT: 34 / total: 41)
+BLEU-1 score: 0.5588235294117647 (match: 19 / total: 34)
+BLEU-2 score: 0.18181818181818182 (match: 6 / total: 33)
+BLEU-3 score: 0.0625 (match: 2 / total: 32)
+BLEU-4 score: 0.03225806451612903 (match: 1 / total: 31)
+BLEU score: 0.09737422399705979
+test sentence: 18
+BLEU-BP score: 1 (ChatGPT: 8 / total: 7)
+BLEU-1 score: 0.375 (match: 3 / total: 8)
+BLEU-2 score: 0.014285714285714287 (match: 0 / total: 7)
+BLEU-3 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU-4 score: 0.02 (match: 0 / total: 5)
+BLEU score: 0.03655552228545124
+test sentence: 19
+BLEU-BP score: 1 (ChatGPT: 16 / total: 15)
+BLEU-1 score: 0.8125 (match: 13 / total: 16)
+BLEU-2 score: 0.6 (match: 9 / total: 15)
+BLEU-3 score: 0.5 (match: 7 / total: 14)
+BLEU-4 score: 0.38461538461538464 (match: 5 / total: 13)
+BLEU score: 0.5533409598501607
+test sentence: 20
+BLEU-BP score: 1 (ChatGPT: 31 / total: 23)
+BLEU-1 score: 0.41935483870967744 (match: 13 / total: 31)
+BLEU-2 score: 0.23333333333333334 (match: 7 / total: 30)
+BLEU-3 score: 0.13793103448275862 (match: 4 / total: 29)
+BLEU-4 score: 0.07142857142857142 (match: 2 / total: 28)
+BLEU score: 0.17620697694486812
+test sentence: 21
+BLEU-BP score: 1 (ChatGPT: 9 / total: 8)
+BLEU-1 score: 0.4444444444444444 (match: 4 / total: 9)
+BLEU-2 score: 0.0125 (match: 0 / total: 8)
+BLEU-3 score: 0.014285714285714287 (match: 0 / total: 7)
+BLEU-4 score: 0.016666666666666666 (match: 0 / total: 6)
+BLEU score: 0.03391326091030751
+test sentence: 22
+BLEU-BP score: 1 (ChatGPT: 17 / total: 17)
+BLEU-1 score: 0.5882352941176471 (match: 10 / total: 17)
+BLEU-2 score: 0.3125 (match: 5 / total: 16)
+BLEU-3 score: 0.2 (match: 3 / total: 15)
+BLEU-4 score: 0.07142857142857142 (match: 1 / total: 14)
+BLEU score: 0.22637359354764466
+test sentence: 23
+BLEU-BP score: 1 (ChatGPT: 29 / total: 29)
+BLEU-1 score: 0.5517241379310345 (match: 16 / total: 29)
+BLEU-2 score: 0.42857142857142855 (match: 12 / total: 28)
+BLEU-3 score: 0.37037037037037035 (match: 10 / total: 27)
+BLEU-4 score: 0.3076923076923077 (match: 8 / total: 26)
+BLEU score: 0.40515809323728763
+test sentence: 24
+BLEU-BP score: 1 (ChatGPT: 31 / total: 31)
+BLEU-1 score: 0.8387096774193549 (match: 26 / total: 31)
+BLEU-2 score: 0.5666666666666667 (match: 17 / total: 30)
+BLEU-3 score: 0.3793103448275862 (match: 11 / total: 29)
+BLEU-4 score: 0.2857142857142857 (match: 8 / total: 28)
+BLEU score: 0.476394228002448
+test sentence: 25
+BLEU-BP score: 1 (ChatGPT: 25 / total: 23)
+BLEU-1 score: 0.56 (match: 14 / total: 25)
+BLEU-2 score: 0.20833333333333334 (match: 5 / total: 24)
+BLEU-3 score: 0.043478260869565216 (match: 1 / total: 23)
+BLEU-4 score: 0.004545454545454546 (match: 0 / total: 22)
+BLEU score: 0.0692945483088954
+test sentence: 26
+BLEU-BP score: 1 (ChatGPT: 7 / total: 7)
+BLEU-1 score: 0.5714285714285714 (match: 4 / total: 7)
+BLEU-2 score: 0.16666666666666666 (match: 1 / total: 6)
+BLEU-3 score: 0.02 (match: 0 / total: 5)
+BLEU-4 score: 0.025 (match: 0 / total: 4)
+BLEU score: 0.08307018474412793
+test sentence: 27
+BLEU-BP score: 0.7639669352423403 (ChatGPT: 26 / total: 33)
+BLEU-1 score: 0.38461538461538464 (match: 10 / total: 26)
+BLEU-2 score: 0.08 (match: 2 / total: 25)
+BLEU-3 score: 0.041666666666666664 (match: 1 / total: 24)
+BLEU-4 score: 0.004347826086956522 (match: 0 / total: 23)
+BLEU score: 0.03712093895045838
+test sentence: 28
+BLEU-BP score: 1 (ChatGPT: 35 / total: 25)
+BLEU-1 score: 0.4857142857142857 (match: 17 / total: 35)
+BLEU-2 score: 0.23529411764705882 (match: 8 / total: 34)
+BLEU-3 score: 0.12121212121212122 (match: 4 / total: 33)
+BLEU-4 score: 0.0625 (match: 2 / total: 32)
+BLEU score: 0.17153569400222501
+test sentence: 29
+BLEU-BP score: 0.7939226578179512 (ChatGPT: 13 / total: 16)
+BLEU-1 score: 0.5384615384615384 (match: 7 / total: 13)
+BLEU-2 score: 0.25 (match: 3 / total: 12)
+BLEU-3 score: 0.09090909090909091 (match: 1 / total: 11)
+BLEU-4 score: 0.01 (match: 0 / total: 10)
+BLEU score: 0.08350331161537676
+test sentence: 30
+BLEU-BP score: 0.441233167759984 (ChatGPT: 11 / total: 20)
+BLEU-1 score: 0.36363636363636365 (match: 4 / total: 11)
+BLEU-2 score: 0.01 (match: 0 / total: 10)
+BLEU-3 score: 0.011111111111111112 (match: 0 / total: 9)
+BLEU-4 score: 0.0125 (match: 0 / total: 8)
+BLEU score: 0.01176256005031696
