@@ -7,6 +7,8 @@
 
 import re
 import math
+
+# only used for checking the result
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
 def preprocess(text):
