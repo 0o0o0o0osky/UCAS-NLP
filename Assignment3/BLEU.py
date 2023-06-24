@@ -25,7 +25,7 @@ def preprocess(text):
 reference = open('testdata/reference30.txt', 'r', encoding='utf-8').readlines()
 preprocess(reference)
 
-# data of translators
+# data of candidates
 baidu = open('result/Baidu.txt', 'r', encoding='utf-8').readlines()
 preprocess(baidu)
 bing = open('result/Bing.txt', 'r', encoding='utf-8').readlines()
@@ -72,22 +72,22 @@ def ngram(text, n):
         ngram.append(text[i:i+n])
     return ngram
 
-# get the name of translator
-def get_name(translator):
-    if translator == baidu:
+# get the name of candidate
+def get_name(candidate):
+    if candidate == baidu:
         return 'Baidu'
-    elif translator == bing:
+    elif candidate == bing:
         return 'Bing'
-    elif translator == google:
+    elif candidate == google:
         return 'Google'
-    elif translator == gpt:
+    elif candidate == gpt:
         return 'ChatGPT'
 
 # calculate the BLEU score
-def BLEU(translator, ref, loc):
+def BLEU(candidate, reference, loc):
     score = 0
     score_BP = 1
-    translator_name = get_name(translator)
+    candidate_name = get_name(candidate)
     result_dict = {'uni_match': 0, 'uni_total': 0, 'uni_score': 0,
                    'bi_match': 0, 'bi_total': 0, 'bi_score': 0,
                    'tri_match': 0, 'tri_total': 0, 'tri_score': 0,
@@ -96,16 +96,16 @@ def BLEU(translator, ref, loc):
                    'BLEU': 0
                    }
     # calculate the brevity penalty
-    if len(translator[loc]) < len(reference[loc]):
-        score_BP = math.exp(1 - len(ref[loc])/len(translator[loc]))
-    print('BLEU-BP score of ' + translator_name + ': ' + str(score_BP) + ' (' + translator_name + ': ' + str(len(translator[loc])) 
+    if len(candidate[loc]) < len(reference[loc]):
+        score_BP = math.exp(1 - len(reference[loc])/len(candidate[loc]))
+    print('BLEU-BP score of ' + candidate_name + ': ' + str(score_BP) + ' (' + candidate_name + ': ' + str(len(candidate[loc])) 
           + ' /' + ' reference: ' + str(len(reference[loc])) + ')')
     
     for j in range(1, 5):
         count = 0
         ngram_score = 0
         ngram_ref = ngram(reference[loc], j)
-        ngram_trans = ngram(translator[loc], j)
+        ngram_trans = ngram(candidate[loc], j)
         count_dict = {}
         # count the number of n-gram
         for gram in ngram_ref:
@@ -125,7 +125,7 @@ def BLEU(translator, ref, loc):
         else:
             ngram_score = 0.1 / len(ngram_trans)
         
-        print('BLEU-' + str(j) + ' score of ' + translator_name + ': ' + str(ngram_score) + 
+        print('BLEU-' + str(j) + ' score of ' + candidate_name + ': ' + str(ngram_score) + 
               ' (match: ' + str(count) + ' / total: ' + str(len(ngram_trans)) + ')')
         
         # save the result
@@ -154,18 +154,18 @@ def BLEU(translator, ref, loc):
     score = math.exp(score/4)
     score *= score_BP
 
-    print('BLEU score of ' + translator_name + ': ' + str(score))
+    print('BLEU score of ' + candidate_name + ': ' + str(score))
 
     # check the result
-    if abs(score - sentence_bleu([reference[loc]], translator[loc], smoothing_function=SmoothingFunction().method1)) > 1e-5:
+    if abs(score - sentence_bleu([reference[loc]], candidate[loc], smoothing_function=SmoothingFunction().method1)) > 1e-5:
         print('ERROR')
-        print('BLEU score of NLTK: ' + str(sentence_bleu([reference[loc]], translator[loc], smoothing_function=SmoothingFunction().method1)))
+        print('BLEU score of NLTK: ' + str(sentence_bleu([reference[loc]], candidate[loc], smoothing_function=SmoothingFunction().method1)))
         exit()
 
     # save the result
     result_dict['BLEU'] = score
     result_dict['BP'] = score_BP
-    result_dict['trans_words'] = len(translator[loc])
+    result_dict['trans_words'] = len(candidate[loc])
     result_dict['ref_words'] = len(reference[loc])
 
     return result_dict
